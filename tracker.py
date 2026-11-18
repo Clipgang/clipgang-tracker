@@ -215,6 +215,33 @@ def prune_history(now):
             f.unlink()
 
 
+def merge_recent_history(snapshot, now):
+    """Clips aus frueheren Laeufen der letzten 24h ergaenzen.
+
+    Die Twitch-Clip-API liefert nicht bei jedem Lauf alle Clips. Damit ein
+    schwacher Lauf keine Clips verliert, werden bekannte Clips der letzten
+    24 Stunden mit ihrer zuletzt gemessenen View-Zahl uebernommen.
+    """
+    cutoff = now - timedelta(hours=24)
+    clips = {c["id"]: c for c in snapshot["clips"]}
+    fresh = len(clips)
+    for f in sorted(HISTORY.glob("*.json")):
+        try:
+            old = json.loads(f.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            continue
+        for c in old.get("clips", []):
+            created = datetime.strptime(c["created_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            if created < cutoff:
+                continue
+            known = clips.get(c["id"])
+            if known is None or known["views"] < c["views"]:
+                clips[c["id"]] = c
+    snapshot["clips"] = sorted(clips.values(), key=lambda x: -x["views"])
+    snapshot["fetched_clips"] = fresh
+    return snapshot
+
+
 def main():
     cid = os.environ.get("TWITCH_CLIENT_ID", "").strip()
     secret = os.environ.get("TWITCH_CLIENT_SECRET", "").strip()
@@ -226,11 +253,13 @@ def main():
     snapshot = collect(tw, now)
 
     HISTORY.mkdir(parents=True, exist_ok=True)
-    (DATA / "latest.json").write_text(json.dumps(snapshot, ensure_ascii=False, indent=1), encoding="utf-8")
+    # Rohdaten dieses Laufs archivieren, danach mit den letzten 24h zusammenfuehren
     (HISTORY / f"{now:%Y-%m-%d_%H%M}.json").write_text(json.dumps(snapshot, ensure_ascii=False), encoding="utf-8")
+    snapshot = merge_recent_history(snapshot, now)
+    (DATA / "latest.json").write_text(json.dumps(snapshot, ensure_ascii=False, indent=1), encoding="utf-8")
     prune_history(now)
     write_report(snapshot, ROOT / "REPORT.md")
-    print(f"OK: {len(snapshot['live'])} live, {len(snapshot['clips'])} Clips")
+    print(f"OK: {len(snapshot['live'])} live, {snapshot['fetched_clips']} Clips abgerufen, {len(snapshot['clips'])} Clips in 24h")
 
 
 if __name__ == "__main__":
