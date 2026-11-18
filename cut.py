@@ -25,49 +25,124 @@ WHITE = (255, 255, 255, 255)
 DARK = (26, 11, 46, 255)
 
 
-def wrap(draw, text, font, max_w):
-    lines, line = [], ""
+TEXT_CHARS = set("ÄÖÜäöüß€–—„“‚‘…")
+EMOJI_FONTS = [
+    ROOT / "assets" / "NotoColorEmoji.ttf",
+    Path("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf"),
+]
+_emoji_cache = {}
+
+
+def is_text_char(ch):
+    return ch.isascii() or ch in TEXT_CHARS
+
+
+def split_tokens(text):
+    """Zerlegt den Hook in Woerter und einzelne Emojis."""
+    tokens = []
     for word in text.split():
-        test = f"{line} {word}".strip()
-        if draw.textlength(test, font=font) <= max_w or not line:
-            line = test
-        else:
-            lines.append(line)
-            line = word
+        buf = ""
+        for ch in word:
+            if is_text_char(ch):
+                buf += ch
+            elif ch in "️‍" or 0x1F3FB <= ord(ch) <= 0x1F3FF:
+                if tokens and tokens[-1][0] == "emoji":
+                    tokens[-1] = ("emoji", tokens[-1][1] + ch, tokens[-1][2])
+            else:
+                if buf:
+                    tokens.append(("text", buf, False))
+                    buf = ""
+                tokens.append(("emoji", ch, False))
+        if buf:
+            tokens.append(("text", buf, False))
+        if tokens:
+            # markieren, dass nach diesem Token ein Leerzeichen kommt
+            kind, val, _ = tokens[-1]
+            tokens[-1] = (kind, val, True)
+    return tokens
+
+
+def emoji_image(char, size):
+    key = (char, size)
+    if key in _emoji_cache:
+        return _emoji_cache[key]
+    font_path = next((p for p in EMOJI_FONTS if p.exists()), None)
+    if font_path is None:
+        return None
+    try:
+        efont = ImageFont.truetype(str(font_path), 109)
+    except OSError:
+        return None
+    tile = Image.new("RGBA", (160, 160), (0, 0, 0, 0))
+    ImageDraw.Draw(tile).text((10, 10), char, font=efont, embedded_color=True)
+    bbox = tile.getbbox()
+    if not bbox:
+        return None
+    tile = tile.crop(bbox)
+    h = int(size * 0.9)
+    tile = tile.resize((max(1, int(tile.width * h / tile.height)), h), Image.LANCZOS)
+    _emoji_cache[key] = tile
+    return tile
+
+
+def token_width(d, tok, font, size):
+    kind, val, _ = tok
+    if kind == "text":
+        return d.textlength(val, font=font)
+    img = emoji_image(val, size)
+    return img.width if img else 0
+
+
+def layout_lines(d, tokens, font, size, max_w):
+    space = d.textlength(" ", font=font)
+    lines, line, line_w = [], [], 0
+    for tok in tokens:
+        w = token_width(d, tok, font, size)
+        gap = space if line and line[-1][2] else 0
+        if line and line_w + gap + w > max_w:
+            lines.append((line, line_w))
+            line, line_w, gap = [], 0, 0
+        line.append(tok)
+        line_w += gap + w
     if line:
-        lines.append(line)
+        lines.append((line, line_w))
     return lines
 
 
-def clean(text):
-    """Emojis entfernen – die Schrift kann sie nicht darstellen."""
-    keep = set("ÄÖÜäöüß€–—„“‚‘…")
-    out = "".join(ch for ch in text if ch.isascii() or ch in keep)
-    return " ".join(out.split())
-
-
 def build_overlay(hook, streamer, path):
-    hook = clean(hook)
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
 
     # Hook-Box: Schrift so gross wie moeglich, max. 3 Zeilen
-    if hook.strip():
-        hook = hook.strip().upper()
-        for size in range(104, 50, -4):
+    tokens = split_tokens(hook.strip().upper()) if hook.strip() else []
+    tokens = [t for t in tokens if t[0] == "text" or emoji_image(t[1], 60)]
+    if tokens:
+        for size in range(90, 44, -4):
             font = ImageFont.truetype(str(FONT), size)
-            lines = wrap(d, hook, font, 900)
+            lines = layout_lines(d, tokens, font, size, 860)
             if len(lines) <= 3:
                 break
+        space = d.textlength(" ", font=font)
         line_h = int(size * 1.18)
-        text_w = max(d.textlength(l, font=font) for l in lines)
-        box_w, box_h = int(text_w + 80), line_h * len(lines) + 56
+        text_w = max(w for _, w in lines)
+        pad_x, pad_y = 56, 22
+        box_w, box_h = int(text_w + 2 * pad_x), line_h * len(lines) + 2 * pad_y
         bx, by = (W - box_w) // 2, VIDEO_Y - box_h - 70
-        d.rounded_rectangle((bx, by, bx + box_w, by + box_h), radius=28, fill=PINK)
-        y = by + 28
-        for l in lines:
-            lw = d.textlength(l, font=font)
-            d.text(((W - lw) / 2, y), l, font=font, fill=WHITE, stroke_width=3, stroke_fill=DARK)
+        d.rounded_rectangle((bx, by, bx + box_w, by + box_h), radius=26, fill=PINK)
+        y = by + pad_y
+        for line, lw in lines:
+            x = (W - lw) / 2
+            for i, (kind, val, sp) in enumerate(line):
+                if kind == "text":
+                    d.text((x, y), val, font=font, fill=WHITE, stroke_width=3, stroke_fill=DARK)
+                    x += d.textlength(val, font=font)
+                else:
+                    em = emoji_image(val, size)
+                    ey = int(y + (line_h - em.height) / 2 - size * 0.04)
+                    img.alpha_composite(em, (int(x), ey))
+                    x += em.width
+                if sp and i < len(line) - 1:
+                    x += space
             y += line_h
 
     below = VIDEO_Y + VIDEO_H + 36
