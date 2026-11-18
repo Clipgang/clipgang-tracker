@@ -7,6 +7,7 @@ TWITCH_CLIENT_ID und TWITCH_CLIENT_SECRET (als GitHub Secrets hinterlegt).
 import json
 import os
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -30,8 +31,19 @@ def get_token(client_id, client_secret):
         "grant_type": "client_credentials",
     }).encode()
     req = urllib.request.Request("https://id.twitch.tv/oauth2/token", data=body, method="POST")
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)["access_token"]
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)["access_token"]
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode(errors="replace")
+        print(f"Client-ID: {len(client_id)} Zeichen, beginnt mit '{client_id[:4]}', endet mit '{client_id[-3:]}'")
+        print(f"Client-Secret: {len(client_secret)} Zeichen")
+        hint = ""
+        if "invalid client secret" in detail:
+            hint = "Das Client-Secret stimmt nicht. Neues Geheimnis auf dev.twitch.tv erzeugen und TWITCH_CLIENT_SECRET aktualisieren."
+        elif "invalid client" in detail:
+            hint = "Die Client-ID stimmt nicht. Auf dev.twitch.tv unter 'Verwalten' kopieren und TWITCH_CLIENT_ID aktualisieren."
+        sys.exit(f"Twitch-Anmeldung fehlgeschlagen ({e.code}): {detail}\n{hint}")
 
 
 class Twitch:
@@ -79,7 +91,6 @@ def collect(tw, now):
     since = (now - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
     lang = CONFIG["language"]
 
-    # 1) Wer streamt gerade GTA 6 auf Deutsch?
     streams = tw.paged("streams", {"game_id": game_id, "language": lang, "first": 100}, max_pages=3)
     live = [{
         "login": s["user_login"],
@@ -90,17 +101,14 @@ def collect(tw, now):
     } for s in streams]
     live.sort(key=lambda x: -x["viewers"])
 
-    # 2) Watchlist-Streamer: IDs holen
     watch = [w.lower() for w in CONFIG["watchlist"]]
     users = tw.get("users", {"login": watch}).get("data", []) if watch else []
     ids = {u["id"]: u["login"] for u in users}
 
-    # 3) Clips: alle GTA-6-Clips der letzten 24h (deutsch gefiltert) ...
     clips = {}
     for c in tw.paged("clips", {"game_id": game_id, "started_at": since, "first": 100}, max_pages=CONFIG["game_clip_pages"]):
         if c.get("language") == lang:
             clips[c["id"]] = c
-    # ... plus Clips der Watchlist und aller deutschen Live-Streamer (nur GTA 6)
     broadcaster_ids = set(ids)
     if live:
         live_users = tw.get("users", {"login": [l["login"] for l in live[:100]]}).get("data", [])
@@ -133,7 +141,6 @@ def collect(tw, now):
 # ---------- Auswerten ----------
 
 def per_streamer(snapshot):
-    """Clip-Views je Streamer im Verhaeltnis zu den Live-Zuschauern."""
     stats = {}
     for c in snapshot["clips"]:
         s = stats.setdefault(c["login"], {"name": c["streamer"], "clip_views": 0, "clips": 0})
@@ -209,8 +216,8 @@ def prune_history(now):
 
 
 def main():
-    cid = os.environ.get("TWITCH_CLIENT_ID")
-    secret = os.environ.get("TWITCH_CLIENT_SECRET")
+    cid = os.environ.get("TWITCH_CLIENT_ID", "").strip()
+    secret = os.environ.get("TWITCH_CLIENT_SECRET", "").strip()
     if not cid or not secret:
         sys.exit("TWITCH_CLIENT_ID und TWITCH_CLIENT_SECRET fehlen (GitHub Secrets pruefen).")
 
