@@ -1,0 +1,33 @@
+name: Clips herunterladen
+
+on:
+  workflow_dispatch:
+    inputs:
+      links:
+        description: "Twitch-Clip-Links, mit Leerzeichen getrennt"
+        required: true
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: yt-dlp installieren
+        run: pip install --quiet yt-dlp
+      - name: Clips laden
+        env:
+          LINKS: ${{ inputs.links }}
+        run: |
+          mkdir -p clips
+          for link in $LINKS; do
+            yt-dlp --no-playlist -f "best[ext=mp4]/best" \
+              -o "clips/%(uploader)s - %(title).60s.%(ext)s" "$link" || echo "Fehlgeschlagen: $link"
+          done
+          ls -la clips
+      - uses: actions/upload-artifact@v4
+        with:
+          name: clips
+          path: clips/
+          retention-days: 3
