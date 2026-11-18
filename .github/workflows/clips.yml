@@ -23,7 +23,7 @@ jobs:
           mkdir -p clips
           for link in $LINKS; do
             yt-dlp --no-playlist -f "best[ext=mp4]/best" \
-              -o "clips/%(uploader)s - %(title).60s.%(ext)s" "$link" || echo "Fehlgeschlagen: $link"
+              -o "clips/%(title).60s.%(ext)s" "$link" || echo "Fehlgeschlagen: $link"
           done
           ls -la clips
       - uses: actions/upload-artifact@v4
