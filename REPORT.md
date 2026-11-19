@@ -1,63 +1,63 @@
-# Clipgang Report – 18.11.2026 22:57 Uhr
+# Clipgang Report – 19.11.2026 02:18 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | nooreax | [Was ist los](https://www.twitch.tv/nooreax/clip/BrainyInterestingTardigradeAMPTropPunch-GDBUwzNBnjdIMLuT) | 7.978 | 20s |
-| 2 | MontanaBlack88 ⚠️ nicht TikTok | [Monte hat kein Aim](https://www.twitch.tv/montanablack88/clip/CalmElatedPrariedog4Head-r1jQrPTSP5J2vEkV) | 4.499 | 60s |
-| 3 | MontanaBlack88 ⚠️ nicht TikTok | [Monte startet GTA 6](https://www.twitch.tv/montanablack88/clip/ThankfulTentativeFennelPeoplesChamp-BoceoXeFRyX_QZBQ) | 1.656 | 60s |
-| 4 | MontanaBlack88 ⚠️ nicht TikTok | [Sieht richtig geil aus](https://www.twitch.tv/montanablack88/clip/ExpensiveLitigiousDillAsianGlow-JVURn4fekWIrv7bA) | 1.306 | 30s |
-| 5 | Papaplatte | [Performance](https://www.twitch.tv/papaplatte/clip/DignifiedEndearingDotterelMVGame-uyYcerHqX-Y4vC40) | 1.246 | 60s |
-| 6 | MontanaBlack88 ⚠️ nicht TikTok | [Auf Ehrenbruderbasis](https://www.twitch.tv/montanablack88/clip/UgliestTallVanillaOSfrog-6rk56NVohSIIFdZH) | 977 | 60s |
-| 7 | MontanaBlack88 ⚠️ nicht TikTok | [Monte fährt Auto](https://www.twitch.tv/montanablack88/clip/AstuteBlatantButterflySuperVinlin-zEPri8Do0tW3KZ_U) | 885 | 60s |
-| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Wir machen alle bisschen Spaß](https://www.twitch.tv/montanablack88/clip/SeductiveLovelyLeopardStinkyCheese-FUTexYomxzohXsoi) | 617 | 30s |
-| 9 | MontanaBlack88 ⚠️ nicht TikTok | [Überall steht Eris](https://www.twitch.tv/montanablack88/clip/RelievedImpartialEndiveBigBrother-xUehQuRlcQvd0GJk) | 589 | 60s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [Monte im Club](https://www.twitch.tv/montanablack88/clip/DifferentDeadSharkVoHiYo-QC1jrHcz5yl1eN3K) | 563 | 60s |
-| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Alte Frau wird gekickt - Lachflash](https://www.twitch.tv/montanablack88/clip/DeliciousBlitheAubergineKappa-bolpBiKotpXUN5sw) | 552 | 60s |
-| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Monte am streichen](https://www.twitch.tv/montanablack88/clip/PoorEnjoyableTriangleKlappa-dlTjR9AeSioUyBfo) | 539 | 60s |
-| 13 | MontanaBlack88 ⚠️ nicht TikTok | [Monte tötet H*nd](https://www.twitch.tv/montanablack88/clip/PlumpMoralPizzaStrawBeary-q62s3_6PNkoaTqgW) | 515 | 42s |
-| 14 | xRohat | [GTA ERSTER EINDRUCK](https://www.twitch.tv/xrohat/clip/InspiringSavageEyeballGivePLZ-8GjDkJM-vVV_XY4N) | 515 | 60s |
-| 15 | MontanaBlack88 ⚠️ nicht TikTok | [Monte stirbt](https://www.twitch.tv/montanablack88/clip/PlacidPuzzledStapleAMPEnergy-k6prjGM1rdam4V3H) | 514 | 60s |
+| 1 | Rumathra | [fast bann](https://www.twitch.tv/rumathra/clip/BelovedMushyCoyoteDxAbomb-NpGAw2u5UP2Xa4tR) | 15.423 | 30s |
+| 2 | nooreax | [Was ist los](https://www.twitch.tv/nooreax/clip/BrainyInterestingTardigradeAMPTropPunch-GDBUwzNBnjdIMLuT) | 10.880 | 20s |
+| 3 | MontanaBlack88 ⚠️ nicht TikTok | [Monte hat kein Aim](https://www.twitch.tv/montanablack88/clip/CalmElatedPrariedog4Head-r1jQrPTSP5J2vEkV) | 5.170 | 60s |
+| 4 | MontanaBlack88 ⚠️ nicht TikTok | [Monte verprügelt schradin](https://www.twitch.tv/montanablack88/clip/SeductiveCredulousMonitorGivePLZ-uCewVuJyBaHZSRbt) | 4.596 | 48s |
+| 5 | Trymacs | [gta](https://www.twitch.tv/trymacs/clip/OptimisticHardHabaneroPoooound--XxzdB2ibqmwWr1R) | 2.221 | 60s |
+| 6 | MontanaBlack88 ⚠️ nicht TikTok | [Monte startet GTA 6](https://www.twitch.tv/montanablack88/clip/ThankfulTentativeFennelPeoplesChamp-BoceoXeFRyX_QZBQ) | 1.867 | 60s |
+| 7 | Papaplatte | [Performance](https://www.twitch.tv/papaplatte/clip/DignifiedEndearingDotterelMVGame-uyYcerHqX-Y4vC40) | 1.691 | 60s |
+| 8 | zarbex | [lusiarbex](https://www.twitch.tv/zarbex/clip/ImpartialAntsyBatHeyGirl-PEUs4jaROYdhSl-U) | 1.508 | 30s |
+| 9 | MontanaBlack88 ⚠️ nicht TikTok | [Sieht richtig geil aus](https://www.twitch.tv/montanablack88/clip/ExpensiveLitigiousDillAsianGlow-JVURn4fekWIrv7bA) | 1.467 | 30s |
+| 10 | zarbex | [ROHAT ANSAGE](https://www.twitch.tv/zarbex/clip/EnergeticGoldenAppleHumbleLife-T1Fku6YlJH7HjFih) | 1.296 | 60s |
+| 11 | zarbex | [Schradin in GTA6 platt gefahren](https://www.twitch.tv/zarbex/clip/RockyDeadHeronRedCoat-_3-Uexjte8o8-u9V) | 1.293 | 23s |
+| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Auf Ehrenbruderbasis](https://www.twitch.tv/montanablack88/clip/UgliestTallVanillaOSfrog-6rk56NVohSIIFdZH) | 1.262 | 60s |
+| 13 | xRohat | [Schläge](https://www.twitch.tv/xrohat/clip/ShyInterestingElephantHassaanChop-YWijHbs2UPitl8eh) | 1.242 | 30s |
+| 14 | PietSmiet | [erster bug in GTA6](https://www.twitch.tv/pietsmiet/clip/AdorableThirstyAyeaye4Head-tf7jXNV9NKnkDc38) | 1.112 | 18s |
+| 15 | Trymacs | [5 Tage GTA 6 Stream!  / !Loco! !ESN !Emma !Nobomi !Prepmymeal](https://www.twitch.tv/trymacs/clip/AmazingBitterLaptopNinjaGrumpy-S8xahFszqWhf5UrQ) | 1.038 | 20s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| Trymacs | 60.272 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco! !ESN !Nobomi !Prepmymeal |
-| zarbex | 56.846 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 GEILSTES SPIEL ALLER ZEITEN 🦩🌴 |
-| Papaplatte | 38.423 | ☀️ GEILER MANN SPIELT GTA 6 ☀️ |
-| xRohat | 26.966 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spen |
-| PietSmiet | 12.630 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 / !Friendlyfire !discord !ptsmt |
-| Shlorox | 4.984 | GTA VI RELEASE / Nicht in Neuseeland 🦝 !Revolut 🐢 / (╯°□°）╯ 🪑 |
-| HamedLoco | 3.763 | ✨ay locos✨ GTA VI MARATHON 100% !?✨VATO SHOP ÖFFNET WIEDER !VATO ✨  /  |
-| Giggand | 3.435 | [DROPS AKTIV] 🌴 GTA 6 RELEASE 🌴VICE CITY / @Giggand |
-| MauriceWeber | 2.809 | 99 auf Metacritic. Wow. |
-| RocketBeansTV | 2.500 | Die GTA-VI-Releaseparty - wir gehen rein, den ganzen Tag!! |
-| LPMassive | 1.939 | Erstmal Vice City erkunden, Story später! [PS5 PRO] |
-| Lost | 1.848 | ✅DROPS[an]🔥Ich hab 60ꜰᴘꜱ in !GTA6🔥Bestes Zuschauer Erlebnis🔥 |
-| Rumathra | 1.787 | [DROPS] 🤝RIESEN GTA TAG 🤝 WORLD FIRST STRIPCLUB ATTEMPT 🤝 ZOCKVEMBER 🤝 |
-| F3nixStream | 1.785 | [✅!DROPS]🦩GTA6 Vice City🦩/ !Holy / #Werbung |
-| V1nKub | 1.705 | !DROPS AN✅ GTA 6 ist ENDLICH DA! 👑 24H STREAM 🔴 / !Prep !TEDi !Steelse |
+| Trymacs | 34.298 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco! !ESN !Nobomi !Prepmymeal |
+| zarbex | 31.508 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 GEILSTES SPIEL ALLER ZEITEN 🦩🌴 |
+| xRohat | 13.946 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spen |
+| mertabimula | 4.431 | ICH BIN VOLL DRINNE ! GTA STORY PLATIN CHALLENGE 🔥 / !sidejeans !more  |
+| SCHRADIN | 4.408 | VIELE GEWINNE FÜR EUCH..!!! UND WIR SPIELEN GTA VI bis morgen mittag.. |
+| Bonjwa | 4.229 | GTA hat Asters Leben geprägt. Heute schreiben wir das nächste Kapitel |
+| coachlim | 3.696 | TAG 18 MEIN ERSTER SUBATHON / GTA 6 RELEASE DAY HYPE (DROPS AKTIV)! /  |
+| LusorKoeffizient | 2.642 | [DROPS AKTIV] LEGENDEN im GTA VI 72-Stunden Stream! 🔥 !charm !ig !rame |
+| Shlorox | 2.622 | GTA VI RELEASE / Nicht in Neuseeland 🦝 !Revolut 🐢 / (╯°□°）╯ 🪑 |
+| MckyTV | 2.424 | 🟧 GTA 6 mit MICHAEL HORT 🟧 Submode only wegen Spoiler 🟧 |
+| rewinside | 2.153 | GTA VI RELEASE 00:00 UHR ohne NEUSEELAND AHH ZENSUR |
+| marli | 2.144 | Ich werde Lucia fremdgehen |
+| HamedLoco | 1.974 | ✨ay locos✨ GTA VI MARATHON 100% !?✨VATO SHOP ÖFFNET WIEDER !VATO ✨  /  |
+| marco_scm | 1.909 | 🔴GTA 6🔴Die Stimmen werden lauter🔴yeeeee🔴Favorite Parttime Streamer🔴/ ! |
+| VOISTEL | 1.810 | VI The Show live @xperion |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| MontanaBlack88 | 19.714 | 49 | – | – |
-| nooreax | 7.978 | 1 | – | – |
-| Papaplatte | 1.246 | 1 | 38.423 | 0,03 |
-| xRohat | 515 | 1 | 26.966 | 0,02 |
-| kodi__98 | 286 | 10 | 598 | 0,48 |
-| Syrix | 191 | 5 | 72 | 2,65 |
-| Schisamm | 174 | 19 | 149 | 1,17 |
-| HeyStan | 105 | 23 | 370 | 0,28 |
-| LPMassive | 89 | 7 | 1.939 | 0,05 |
-| anaaja | 88 | 12 | 1.492 | 0,06 |
-| VOISTEL | 57 | 27 | 1.236 | 0,05 |
-| dieserkingphil | 50 | 7 | 1.145 | 0,04 |
-| PietSmiet | 48 | 10 | 12.630 | 0,0 |
-| EiKaRRRamba | 39 | 9 | 167 | 0,23 |
-| DerSmoKeY | 39 | 32 | 83 | 0,47 |
+| MontanaBlack88 | 32.307 | 83 | – | – |
+| Rumathra | 17.747 | 52 | – | – |
+| zarbex | 12.182 | 96 | 31.508 | 0,39 |
+| nooreax | 11.152 | 36 | – | – |
+| Trymacs | 9.785 | 74 | 34.298 | 0,29 |
+| xRohat | 8.110 | 72 | 13.946 | 0,58 |
+| Papaplatte | 5.672 | 86 | – | – |
+| PietSmiet | 2.895 | 74 | – | – |
+| anaaja | 988 | 106 | 1.128 | 0,88 |
+| kodi__98 | 807 | 19 | 469 | 1,72 |
+| Giggand | 744 | 63 | – | – |
+| coachlim | 694 | 39 | 3.696 | 0,19 |
+| dieserkingphil | 561 | 110 | 342 | 1,64 |
+| Heideltraut | 420 | 60 | – | – |
+| Bonjwa | 410 | 37 | 4.229 | 0,1 |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
