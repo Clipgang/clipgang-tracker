@@ -1,63 +1,63 @@
-# Clipgang Report – 19.11.2026 20:05 Uhr
+# Clipgang Report – 19.11.2026 22:56 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | Papaplatte | [☀️ GEILER MANN SPIELT GTA 6 ☀️](https://www.twitch.tv/papaplatte/clip/ImpartialIgnorantLettuceDBstyle-nwtiB1ef3hxkmQER) | 4.692 | 60s |
-| 2 | rewinside | [fazit](https://www.twitch.tv/rewinside/clip/LitigiousTsunderePoultryRedCoat-_adDO0SNZRTekd_h) | 1.328 | 30s |
-| 3 | Trymacs | [digger was](https://www.twitch.tv/trymacs/clip/SparklyLitigiousSrirachaTakeNRG-NCpFwpHOu5KHHrt_) | 1.298 | 13s |
-| 4 | zarbex | [Big Foot?](https://www.twitch.tv/zarbex/clip/CrepuscularPricklyCougarPermaSmug-6pD_apiAVgYnmm8s) | 1.217 | 14s |
-| 5 | Giggand | [Ist mir gerade ein Vogel in den Rotor geflogen?](https://www.twitch.tv/giggand/clip/GoodTacitMetalFrankerZ-p4k1o9jkhtHU0QPf) | 962 | 42s |
-| 6 | xRohat | [couch](https://www.twitch.tv/xrohat/clip/SplendidVenomousOkapiTheRinger-WWtNVXLUKTlJnvJz) | 870 | 30s |
-| 7 | NiklasWilson | [HAHAHAHAHA](https://www.twitch.tv/niklaswilson/clip/SpikySpotlessLorisRickroll-igbDpj5Y1zDYrwzN) | 784 | 60s |
-| 8 | Papaplatte | [wir werden heute ordentlich spielen](https://www.twitch.tv/papaplatte/clip/TrustworthyResoluteSquirrelPipeHype-g5hEUulaOav1HGfr) | 754 | 6s |
-| 9 | JenNyan | [Jen startet in GTA6](https://www.twitch.tv/jennyan/clip/FlaccidEntertainingHawkPanicBasket-6tK5a4zuf2BSemsz) | 734 | 48s |
-| 10 | sawlties | [aufgereeeegt](https://www.twitch.tv/sawlties/clip/LaconicGenerousCobraAsianGlow-iCcOSI7ZODu8AABk) | 732 | 13s |
-| 11 | xRohat | [BRAND](https://www.twitch.tv/xrohat/clip/GleamingAssiduousSheepTBCheesePull-zwgwoGdUUmaNnOwv) | 731 | 60s |
-| 12 | Trymacs | [what is going on bro](https://www.twitch.tv/trymacs/clip/CrunchyBumblingGrassOneHand-6akG1kj9dZUz8uCU) | 722 | 60s |
-| 13 | Trymacs | [Trymacs Reaction auf GTA 6 S** Szene](https://www.twitch.tv/trymacs/clip/PeppySingleBasenjiPermaSmug-KRShyeDNxF9sPYIa) | 614 | 60s |
-| 14 | SCHRADIN | [Schradin schießt daneben. Deswegen wird sein Kollege vom Hai gefressen](https://www.twitch.tv/schradin/clip/ExpensiveHandsomeToothKevinTurtle-yy9XAekcwS4SymsP) | 568 | 14s |
-| 15 | NiklasWilson | [Grand Theft Auto VI clip at 35m42s](https://www.twitch.tv/niklaswilson/clip/GiantProductiveSpindle4Head-z7LGS-iNeJ5xCE-Z) | 541 | 30s |
+| 1 | rewinside | [fazit](https://www.twitch.tv/rewinside/clip/LitigiousTsunderePoultryRedCoat-_adDO0SNZRTekd_h) | 1.633 | 30s |
+| 2 | zarbex | [Big Foot?](https://www.twitch.tv/zarbex/clip/CrepuscularPricklyCougarPermaSmug-6pD_apiAVgYnmm8s) | 1.474 | 14s |
+| 3 | Giggand | [Ist mir gerade ein Vogel in den Rotor geflogen?](https://www.twitch.tv/giggand/clip/GoodTacitMetalFrankerZ-p4k1o9jkhtHU0QPf) | 1.145 | 42s |
+| 4 | xRohat | [couch](https://www.twitch.tv/xrohat/clip/SplendidVenomousOkapiTheRinger-WWtNVXLUKTlJnvJz) | 1.113 | 30s |
+| 5 | NiklasWilson | [HAHAHAHAHA](https://www.twitch.tv/niklaswilson/clip/SpikySpotlessLorisRickroll-igbDpj5Y1zDYrwzN) | 1.098 | 60s |
+| 6 | Papaplatte | [wir werden heute ordentlich spielen](https://www.twitch.tv/papaplatte/clip/TrustworthyResoluteSquirrelPipeHype-g5hEUulaOav1HGfr) | 971 | 6s |
+| 7 | sawlties | [aufgereeeegt](https://www.twitch.tv/sawlties/clip/LaconicGenerousCobraAsianGlow-iCcOSI7ZODu8AABk) | 938 | 13s |
+| 8 | JenNyan | [Jen startet in GTA6](https://www.twitch.tv/jennyan/clip/FlaccidEntertainingHawkPanicBasket-6tK5a4zuf2BSemsz) | 891 | 48s |
+| 9 | marco_scm | [ayooo](https://www.twitch.tv/marco_scm/clip/CutePhilanthropicShrewOneHand-WiLbFQiv8DUdS-Ck) | 804 | 30s |
+| 10 | SCHRADIN | [Probleme](https://www.twitch.tv/schradin/clip/CharmingSavoryLyrebirdDoubleRainbow-JtiHc8UhAmR__ca0) | 735 | 60s |
+| 11 | NiklasWilson | [Grand Theft Auto VI clip at 35m42s](https://www.twitch.tv/niklaswilson/clip/GiantProductiveSpindle4Head-z7LGS-iNeJ5xCE-Z) | 717 | 30s |
+| 12 | SCHRADIN | [Schradin schießt daneben. Deswegen wird sein Kollege vom Hai gefressen](https://www.twitch.tv/schradin/clip/ExpensiveHandsomeToothKevinTurtle-yy9XAekcwS4SymsP) | 680 | 14s |
+| 13 | eliasn97 | [eli firma](https://www.twitch.tv/eliasn97/clip/SaltyHungrySquirrelYee-2WSk7brYT-itz4Hp) | 611 | 38s |
+| 14 | edizderbreite | [Kleine Aggressionsprobleme](https://www.twitch.tv/edizderbreite/clip/CrepuscularReliableEelTBTacoLeft-eaIAkTvNOy9lyvaF) | 604 | 34s |
+| 15 | MontanaBlack88 ⚠️ nicht TikTok | [Monte wirft Apfel auf Frau](https://www.twitch.tv/montanablack88/clip/TacitHappyWheelCoolCat-CvuqKWLafBy75WKT) | 588 | 30s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| zarbex | 44.919 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 GEILSTES SPIEL ALLER ZEITEN 🦩🌴 |
-| Trymacs | 40.562 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco !ESN !Nobomi !Prepmymeal |
-| eliasn97 | 28.819 | [DROPS] GTA VI GRIND 🔥 /  !iconleague !doku !eligella !gaming |
-| Papaplatte | 27.975 | ☀️ GEILER MANN SPIELT GTA 6 ☀️ |
-| xRohat | 15.452 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spen |
-| PietSmiet | 10.524 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 / !Friendlyfire !discord !ptsmt |
-| Bonjwa | 5.847 | Aster ist einfach Jason - GTA 6 |
-| gTasty | 5.769 | GTA6 IN MAXIMALER QUALITÄT |
-| SCHRADIN | 5.193 | WIR MACHEN STRESS AUF 5 STERNEN...! GTA VI und es gibt 10x100€ Amazon  |
-| Shlorox | 4.431 | GTA VI RELEASE / 60FPS & DLSS 5 🦝 !Revolut 🐢 / (╯°□°）╯ 🪑 |
-| marco_scm | 3.418 | 🔴GTA 6🔴Die Stimmen werden lauter🔴yeeeee🔴Favorite Parttime Streamer🔴/ ! |
-| coachlim | 3.298 | TAG 19 MEIN ERSTER SUBATHON / GTA 6 GEHT WEITER (DROPS)/ Du musst den  |
-| DimelooV | 3.151 | GTA 6 RELEASE DAY! 🔥 FACE REVEAL 👀 MEGA-GEWINNSPIEL 🎁 ✨ |
-| H0llyLP | 2.869 | GTA 6 (PS5 PRO) - TAG 1 / !holy !holzkern !vod |
-| LusorKoeffizient | 2.848 | LUX ONE PRO GIVEAWAY bei 2.5K SUBS ! [DROPS AKTIV] LEGENDEN im GTA VI  |
+| Trymacs | 45.127 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco! !ESN !Nobomi !Prepmymeal |
+| zarbex | 41.162 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 GEILSTES SPIEL ALLER ZEITEN 🦩🌴 |
+| eliasn97 | 30.507 | [DROPS] GTA VI GRIND 🔥 /  !iconleague !doku !eligella !gaming |
+| Papaplatte | 21.269 | ☀️ GEILER MANN SPIELT GTA 6 ☀️ |
+| xRohat | 18.322 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spen |
+| PietSmiet | 7.488 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 / !Friendlyfire !discord !ptsmt |
+| Bonjwa | 5.098 | Aster ist einfach Jason - GTA 6 |
+| coachlim | 3.834 | TAG 19 MEIN ERSTER SUBATHON / GTA 6 GEHT WEITER (DROPS)/ Du musst den  |
+| Shlorox | 3.523 | GTA VI RELEASE / 60FPS & DLSS 5 🦝 !Revolut 🐢 / (╯°□°）╯ 🪑 |
+| MckyTV | 2.765 | 🟧 WEITER MIT  GTA 6  🟧 DANACH MAYBE WOW NACHTWACHE 🟧 |
+| LusorKoeffizient | 2.472 | LUX ONE PRO GIVEAWAY bei 2.5K SUBS ! [DROPS AKTIV] LEGENDEN im GTA VI  |
+| H0llyLP | 2.435 | GTA 6 (PS5 PRO) - TAG 1 / !holy !holzkern !vod |
+| mertabimula | 2.121 | TAG 2 - 32/100 % GTA STORY PLATIN CHALLENGE 🔥 / !sidejeans !more !sucu |
+| Mahluna | 2.029 | 🌴MEIN ERSTES MAL GTA 🌴 GTA VI RELEASE WOWOWOW !yt |
+| MauriceWeber | 1.837 | Ich habe keinen Führerschein und ich muss Autos klauen |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| Papaplatte | 7.420 | 58 | 27.975 | 0,27 |
-| xRohat | 5.210 | 81 | 15.452 | 0,34 |
-| zarbex | 4.873 | 80 | 44.919 | 0,11 |
-| Trymacs | 4.332 | 61 | 40.562 | 0,11 |
-| JenNyan | 2.879 | 172 | 2.236 | 1,29 |
-| MontanaBlack88 | 2.824 | 88 | – | – |
-| eliasn97 | 2.359 | 64 | 28.819 | 0,08 |
-| NiklasWilson | 2.251 | 42 | – | – |
-| SCHRADIN | 2.180 | 69 | 5.193 | 0,42 |
-| HamedLoco | 1.660 | 146 | 1.770 | 0,94 |
-| rewinside | 1.646 | 101 | 1.601 | 1,03 |
-| Giggand | 1.578 | 24 | – | – |
-| Bonjwa | 1.483 | 92 | 5.847 | 0,25 |
-| sawlties | 1.432 | 8 | – | – |
-| mertabimula | 1.259 | 35 | 1.468 | 0,86 |
+| MontanaBlack88 | 7.073 | 94 | – | – |
+| zarbex | 5.000 | 79 | 41.162 | 0,12 |
+| xRohat | 4.239 | 87 | 18.322 | 0,23 |
+| NiklasWilson | 3.777 | 91 | 1.455 | 2,6 |
+| JenNyan | 3.200 | 172 | – | – |
+| eliasn97 | 3.063 | 73 | 30.507 | 0,1 |
+| SCHRADIN | 2.556 | 69 | – | – |
+| Papaplatte | 2.388 | 76 | 21.269 | 0,11 |
+| rewinside | 2.117 | 118 | 1.394 | 1,52 |
+| Giggand | 2.112 | 3 | – | – |
+| Trymacs | 1.811 | 78 | 45.127 | 0,04 |
+| sawlties | 1.719 | 8 | – | – |
+| mertabimula | 1.509 | 37 | 2.121 | 0,71 |
+| marco_scm | 1.497 | 38 | – | – |
+| AwesomeElina | 1.050 | 74 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
