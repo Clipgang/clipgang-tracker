@@ -1,5 +1,9 @@
 {
-  "game_names": ["Grand Theft Auto VI", "GTA VI", "Grand Theft Auto 6"],
+  "game_names": [
+    "Grand Theft Auto VI",
+    "GTA VI",
+    "Grand Theft Auto 6"
+  ],
   "language": "de",
   "game_clip_pages": 5,
   "watchlist": [
@@ -13,5 +17,8 @@
     "heideltraut",
     "montanablack88"
   ],
-  "no_tiktok": ["montanablack88"]
+  "no_tiktok": [
+    "montanablack88"
+  ],
+  "facecams": {}
 }

@@ -14,6 +14,18 @@ on:
         description: "Streamer-Name (leer = aus dem Link)"
         required: false
         default: ""
+      layout:
+        description: "Layout"
+        type: choice
+        options: [standard, facecam]
+        default: standard
+      facecam:
+        description: "Nur bei Layout facecam: unten-rechts, unten-links, oben-rechts, oben-links oder x,y,b,h in Prozent (leer = gespeicherter Wert)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
 
 jobs:
   cut:
@@ -27,23 +39,58 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji > /dev/null
           pip install --quiet yt-dlp pillow
-      - name: Clip laden und schneiden
+      - name: Clip laden
+        id: load
         env:
           LINK: ${{ inputs.link }}
-          HOOK: ${{ inputs.hook }}
           STREAMER: ${{ inputs.streamer }}
         run: |
-          mkdir -p raw fertig
+          mkdir -p raw fertig vorschau_tmp
           yt-dlp --no-playlist -f "best[ext=mp4]/best" -o "raw/clip.%(ext)s" "$LINK"
           if [ -z "$STREAMER" ]; then
             STREAMER=$(echo "$LINK" | sed -E 's#.*twitch\.tv/([^/]+)/clip/.*#\1#')
             case "$STREAMER" in http*|*/*) STREAMER="" ;; esac
           fi
           TITLE=$(yt-dlp --no-playlist --print "%(title).50s" "$LINK" | tr -cd '[:alnum:] ._-' | tr ' ' '_')
-          python cut.py raw/clip.mp4 "fertig/${STREAMER:-clip}_${TITLE:-clip}.mp4" "$HOOK" "$STREAMER"
+          echo "streamer=$STREAMER" >> "$GITHUB_OUTPUT"
+          echo "title=${TITLE:-clip}" >> "$GITHUB_OUTPUT"
+          python cut.py --raster raw/clip.mp4 "vorschau_tmp/${{ github.run_id }}_roh.jpg"
+      - name: Clip schneiden
+        env:
+          HOOK: ${{ inputs.hook }}
+          STREAMER: ${{ steps.load.outputs.streamer }}
+          TITLE: ${{ steps.load.outputs.title }}
+          LAYOUT: ${{ inputs.layout }}
+          FACECAM: ${{ inputs.facecam }}
+        run: |
+          OUT="fertig/${STREAMER:-clip}_${TITLE}.mp4"
+          python cut.py raw/clip.mp4 "$OUT" "$HOOK" "$STREAMER" "$LAYOUT" "$FACECAM"
+          python cut.py --vorschau "$OUT" "vorschau_tmp/${{ github.run_id }}_fertig.jpg"
           ls -la fertig
       - uses: actions/upload-artifact@v4
         with:
           name: fertiger-clip
           path: fertig/
           retention-days: 3
+      - name: Vorschaubilder speichern
+        if: always() && steps.load.outcome == 'success'
+        run: |
+          cp vorschau_tmp/*.jpg "$RUNNER_TEMP"/
+          git config user.name "clipgang-bot"
+          git config user.email "clipgang-bot@users.noreply.github.com"
+          if git fetch -q --depth 1 origin vorschau; then
+            git checkout -q -B vorschau FETCH_HEAD
+          else
+            git checkout -q --orphan vorschau
+            git rm -rfq --cached . > /dev/null
+          fi
+          mkdir -p vorschau
+          cp "$RUNNER_TEMP"/*.jpg vorschau/
+          ls -t vorschau/*.jpg | tail -n +41 | xargs -r rm -f
+          git add -A vorschau
+          git commit -qm "Vorschau ${{ github.run_id }}" || exit 0
+          for i in 1 2 3 4 5; do
+            git push -q origin vorschau && break
+            sleep 3
+            git pull -q --rebase origin vorschau
+          done
