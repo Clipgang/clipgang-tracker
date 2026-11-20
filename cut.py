@@ -203,7 +203,7 @@ def probe_duration(src):
 
 
 def facecam_rect(spec, streamer, iw, ih):
-    """Facecam-Ausschnitt in Pixeln, auf das Seitenverhaeltnis des oberen Bereichs erweitert."""
+    """Facecam-Ausschnitt in Pixeln, auf das Seitenverhaeltnis des oberen Bereichs zugeschnitten."""
     spec = (spec or "").strip().lower()
     if not spec:
         cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
@@ -221,10 +221,11 @@ def facecam_rect(spec, streamer, iw, ih):
     x, y, w, h = iw * px / 100, ih * py / 100, iw * pw / 100, ih * ph / 100
     cx, cy = x + w / 2, y + h / 2
     target = W / FACE_H
+    # innerhalb des Facecam-Rahmens bleiben: lieber knapp anschneiden als Spielbild mitnehmen
     if w / h > target:
-        h = w / target
-    else:
         w = h * target
+    else:
+        h = w / target
     w, h = min(w, iw), min(h, ih)
     x = min(max(cx - w / 2, 0), iw - w)
     y = min(max(cy - h / 2, 0), ih - h)
