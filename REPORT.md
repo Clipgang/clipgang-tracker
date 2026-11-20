@@ -1,63 +1,63 @@
-# Clipgang Report – 20.11.2026 08:24 Uhr
+# Clipgang Report – 20.11.2026 11:12 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | Papaplatte | [wir werden heute ordentlich spielen](https://www.twitch.tv/papaplatte/clip/TrustworthyResoluteSquirrelPipeHype-g5hEUulaOav1HGfr) | 2.399 | 6s |
-| 2 | xRohat | [couch](https://www.twitch.tv/xrohat/clip/SplendidVenomousOkapiTheRinger-WWtNVXLUKTlJnvJz) | 2.280 | 30s |
-| 3 | MontanaBlack88 ⚠️ nicht TikTok | [Monte wirft Apfel auf Frau](https://www.twitch.tv/montanablack88/clip/TacitHappyWheelCoolCat-CvuqKWLafBy75WKT) | 1.241 | 30s |
-| 4 | NiklasWilson | [Grand Theft Auto VI clip at 35m42s](https://www.twitch.tv/niklaswilson/clip/GiantProductiveSpindle4Head-z7LGS-iNeJ5xCE-Z) | 1.126 | 30s |
-| 5 | SCHRADIN | [Schradin schießt daneben. Deswegen wird sein Kollege vom Hai gefressen](https://www.twitch.tv/schradin/clip/ExpensiveHandsomeToothKevinTurtle-yy9XAekcwS4SymsP) | 1.001 | 14s |
-| 6 | MontanaBlack88 ⚠️ nicht TikTok | [FSK18](https://www.twitch.tv/montanablack88/clip/FinePatientWatercressSquadGoals-_-HbDKyUEmJaodcg) | 947 | 30s |
-| 7 | MontanaBlack88 ⚠️ nicht TikTok | [Polizei macht nichts](https://www.twitch.tv/montanablack88/clip/HandsomeTangibleMonkeyJKanStyle-iDbmFV3zi_K6KbDD) | 873 | 60s |
-| 8 | NiklasWilson | [niklaswilson - Highlight 0c3463 Part 03](https://www.twitch.tv/niklaswilson/clip/FantasticTangiblePeachTheThing-LgRpFp6tcdfsCN7Y) | 847 | 60s |
-| 9 | MontanaBlack88 ⚠️ nicht TikTok | [Leuchtpistolen](https://www.twitch.tv/montanablack88/clip/SpunkySmoothKeyboardLitty-nS55Dj3oqkUkFdly) | 827 | 60s |
-| 10 | NiklasWilson | [1](https://www.twitch.tv/niklaswilson/clip/GleamingHeartlessIcecreamPartyTime-BmA4gn1yqdkUkMgJ) | 731 | 60s |
-| 11 | NiklasWilson | [Thumbnail Gesichter](https://www.twitch.tv/niklaswilson/clip/ThirstyRichSeahorseDBstyle-DsJKWSO5w0a8JUtV) | 689 | 17s |
-| 12 | BauPenner | [Wenn man nicht anders kann 🤣🤣](https://www.twitch.tv/baupenner/clip/ShakingLongWallabyBatChest-TT76mqmibn4Ml1gf) | 649 | 16s |
-| 13 | MontanaBlack88 ⚠️ nicht TikTok | [mep](https://www.twitch.tv/montanablack88/clip/DrabFurtiveChoughGingerPower-LT3j80f746HsgeIN) | 608 | 60s |
-| 14 | MontanaBlack88 ⚠️ nicht TikTok | [Einfach Ronnyberger](https://www.twitch.tv/montanablack88/clip/DeafNaiveCrabPastaThat-7NwKFsBcgR8ZR5ig) | 548 | 35s |
-| 15 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schlägt FKK Besucher](https://www.twitch.tv/montanablack88/clip/CloudyAwkwardCobblerKreygasm-XXmDydWHQspBTipZ) | 544 | 60s |
+| 1 | Papaplatte | [wir werden heute ordentlich spielen](https://www.twitch.tv/papaplatte/clip/TrustworthyResoluteSquirrelPipeHype-g5hEUulaOav1HGfr) | 2.971 | 6s |
+| 2 | BauPenner | [Wenn man nicht anders kann 🤣🤣](https://www.twitch.tv/baupenner/clip/ShakingLongWallabyBatChest-TT76mqmibn4Ml1gf) | 1.133 | 16s |
+| 3 | MontanaBlack88 ⚠️ nicht TikTok | [FSK18](https://www.twitch.tv/montanablack88/clip/FinePatientWatercressSquadGoals-_-HbDKyUEmJaodcg) | 1.066 | 30s |
+| 4 | BauPenner | [Tinder ?? 🤣🤣🤣](https://www.twitch.tv/baupenner/clip/ColdJollyPizzaRedCoat-lZ0J9oSDn1EbsRQ_) | 756 | 23s |
+| 5 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schlägt FKK Besucher](https://www.twitch.tv/montanablack88/clip/CloudyAwkwardCobblerKreygasm-XXmDydWHQspBTipZ) | 598 | 60s |
+| 6 | Gnu_Live | [Mal schauen was GTA 6 so kann!](https://www.twitch.tv/gnu_live/clip/FreezingDeliciousHedgehogPlanking-k3NWi-4ywa2vpAg0) | 567 | 60s |
+| 7 | Papaplatte | [☀️ GEILER MANN SPIELT GTA 6 ☀️](https://www.twitch.tv/papaplatte/clip/SquareWittyLaptopFutureMan-CxC7OBJXoQGVpd9G) | 551 | 60s |
+| 8 | ELoTRiX | [abv](https://www.twitch.tv/elotrix/clip/AcceptableCaringTubersTebowing-UL8SYxot5YfLfHyt) | 539 | 16s |
+| 9 | Elquaria | [[DROPS] 1 GAME KEY WIRD VERLOST - ERSTES MAL GTA  !spenden !insta !yt](https://www.twitch.tv/elquaria/clip/TenuousAggressiveSalmonGingerPower-dyF9xVRm_1amfhHR) | 537 | 30s |
+| 10 | Sterzik | [Bumshunde](https://www.twitch.tv/sterzik/clip/JoyousGrotesqueShrimpRuleFive-QvXvi68zhHEkT1fH) | 534 | 35s |
+| 11 | MontanaBlack88 ⚠️ nicht TikTok | [sus](https://www.twitch.tv/montanablack88/clip/ObedientTardyWeaselFunRun-BJX4Icken9DhmoFQ) | 482 | 60s |
+| 12 | marco_scm | [ayooooooo](https://www.twitch.tv/marco_scm/clip/SingleCrepuscularRaccoonDancingBanana-7IEbl8UaRFgb0WuP) | 477 | 17s |
+| 13 | MontanaBlack88 ⚠️ nicht TikTok | [COLLECTORS EDITION angekommen](https://www.twitch.tv/montanablack88/clip/VainGlamorousSardineAMPTropPunch-sWuRQJ7ftSqbYb3L) | 456 | 60s |
+| 14 | eliasn97 | [[DROPS] GTA VI GRIND 🔥 /  !iconleague !doku !eligella !gaming](https://www.twitch.tv/eliasn97/clip/RoundTransparentLlamaRickroll-zqS6DDnr4cew7i4P) | 428 | 30s |
+| 15 | sedat | [1](https://www.twitch.tv/sedat/clip/RacyCleverWhaleFunRun-ZF4VE5Bxt3Kk_nyh) | 424 | 30s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| zarbex | 8.933 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 TAG 3 🦩🌴 ALLES ERKUNDEN UND 10 |
-| Trymacs | 7.485 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco! !ESN !Nobomi !Prepmymeal |
-| AresLPs | 2.533 | ✅Drops[on]✅+🔥[MAX FPS]🔥💯★★★★★★ GTA VI ★★★★★★💯/⁉️WAHNSINN´S-GAME!⁉️/🎉Re |
-| maxim | 2.495 | Was machen Sachen! GTA Tag 2 / !pmm !razer !snocks !koro !holzkern #We |
-| xRohat | 2.200 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spen |
-| LusorKoeffizient | 1.402 | MIES EKLIGEN EKELSHAKE FLEXEN bei 3K SUBS! [DROPS AKTIV] LEGENDEN im G |
-| NiklasWilson | 1.351 | Wir sind daaa - GTA 6 + GTA Verlosung!🔥 Aymen kommt heute Abend! !prim |
-| HamedLoco | 1.014 | ✨ay locos✨ GTA VI MARATHON 100% !? (VOD: Morgen um 12 UHR Geht es Weit |
-| GTimeTV | 788 | Die Contentmaschine in Vice City! !Gönrgy !Gportal !Nyfter #Werbung |
-| descarlito | 566 | COACH AM START -> CARLITO IST UNTERWEGS / #werbung !avatarrp !corleone |
-| mertabimula | 516 | TAG 2 - 39/100 % GTA STORY PLATIN CHALLENGE 🔥 Nachtschicht : SlaayerQ7 |
-| Larsi | 512 | 🐊 GTA 6 komplett BLIND / Spoilerfreie Zone 🤐 / Mein erster Tag in Vice |
-| Mossinossi | 478 | GrandTheftAuto 6 by Mossinossi |
-| coachlim | 471 | TAG 19 MEIN ERSTER SUBATHON / Coach schläft/VOD läuft! / Du musst den  |
-| nooreax | 461 | 🚨 BIG GTA VI 🚨 URUTOX NACHTSCHICHT 🚨 2,5 MONATE 24/7 LIVE 🚨 TAG 41 🚨 N |
+| MontanaBlack88 | 16.429 | [DROPS] GTA6 NACH 13 JAHREN WARTEN UNSICHER MACHEN / GTA6 DROPS AKTIV  |
+| zarbex | 14.082 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 TAG 3 🦩🌴 ALLES ERKUNDEN UND 10 |
+| Trymacs | 12.857 | 5 Tage GTA 6 Stream!  / !Wolt !Emma !Loco! !ESN !Nobomi !Prepmymeal |
+| PietSmiet | 5.413 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 !wer / !Friendlyfire !discord !pt |
+| maxim | 4.131 | Was machen Sachen! GTA Tag 2 / !pmm !razer !snocks !koro !holzkern #We |
+| NiklasWilson | 3.290 | Wir sind daaa - GTA 6 + GTA Verlosung!🔥 Aymen kommt heute Abend! !prim |
+| Shlorox | 2.719 | GTA VI RELEASE / 60FPS & DLSS 5 🦝 !Revolut 🐢 / (╯°□°）╯ 🪑 |
+| AresLPs | 1.995 | ✅Drops[on]✅+🔥[MAX FPS]🔥💯★★★★★★ GTA VI ★★★★★★💯/⁉️WAHNSINN´S-GAME!⁉️/🎉Re |
+| LusorKoeffizient | 1.833 | MIES EKLIGEN EKELSHAKE FLEXEN bei 3K SUBS! [DROPS AKTIV] LEGENDEN im G |
+| xRohat | 1.578 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 20 / !spen |
+| HamedLoco | 1.103 | ✨ay locos✨ GTA VI MARATHON 100% !? (VOD: Morgen um 12 UHR Geht es Weit |
+| fustler | 944 | Fustler-Thon - GTA6 morgen IRL Flohmarkt Hunt !fustlerthon !snocks !yf |
+| GTimeTV | 823 | Die Contentmaschine in Vice City! !Gönrgy !Gportal !Nyfter #Werbung |
+| fregepaul | 606 | GTA Zockung - wir testen das limit |
+| descarlito | 571 | COACH AM START -> CARLITO IST UNTERWEGS / #werbung !avatarrp !corleone |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| MontanaBlack88 | 13.195 | 97 | – | – |
-| xRohat | 5.721 | 88 | 2.200 | 2,6 |
-| Papaplatte | 4.550 | 83 | – | – |
-| NiklasWilson | 4.165 | 107 | 1.351 | 3,08 |
-| zarbex | 2.701 | 81 | 8.933 | 0,3 |
-| Trymacs | 2.369 | 92 | 7.485 | 0,32 |
-| SCHRADIN | 1.515 | 37 | – | – |
-| eliasn97 | 1.461 | 100 | – | – |
-| LusorKoeffizient | 1.145 | 188 | 1.402 | 0,82 |
-| Sterzik | 1.079 | 69 | – | – |
-| BauPenner | 1.050 | 2 | – | – |
-| ELoTRiX | 884 | 21 | – | – |
-| Gnu_Live | 868 | 56 | – | – |
-| PietSmiet | 858 | 89 | – | – |
-| coachlim | 790 | 83 | 471 | 1,68 |
+| MontanaBlack88 | 9.115 | 87 | 16.429 | 0,55 |
+| Papaplatte | 5.577 | 82 | – | – |
+| xRohat | 3.789 | 90 | 1.578 | 2,4 |
+| zarbex | 3.003 | 79 | 14.082 | 0,21 |
+| Trymacs | 2.580 | 90 | 12.857 | 0,2 |
+| eliasn97 | 1.989 | 104 | – | – |
+| BauPenner | 1.889 | 2 | – | – |
+| PietSmiet | 1.816 | 124 | 5.413 | 0,34 |
+| ELoTRiX | 1.355 | 21 | – | – |
+| LusorKoeffizient | 1.350 | 185 | 1.833 | 0,74 |
+| fregepaul | 1.199 | 24 | 606 | 1,98 |
+| Sterzik | 1.169 | 69 | – | – |
+| Gnu_Live | 980 | 56 | – | – |
+| marco_scm | 817 | 20 | – | – |
+| coachlim | 790 | 83 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
