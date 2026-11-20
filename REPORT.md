@@ -1,63 +1,63 @@
-# Clipgang Report – 20.11.2026 20:05 Uhr
+# Clipgang Report – 20.11.2026 22:54 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | Papaplatte | [☀️ GEILER MANN SPIELT GTA 6 ☀️](https://www.twitch.tv/papaplatte/clip/SquareWittyLaptopFutureMan-CxC7OBJXoQGVpd9G) | 1.543 | 60s |
-| 2 | BauPenner | [Wenn man nicht anders kann 🤣🤣](https://www.twitch.tv/baupenner/clip/ShakingLongWallabyBatChest-TT76mqmibn4Ml1gf) | 1.487 | 16s |
-| 3 | BauPenner | [Tinder ?? 🤣🤣🤣](https://www.twitch.tv/baupenner/clip/ColdJollyPizzaRedCoat-lZ0J9oSDn1EbsRQ_) | 1.373 | 23s |
-| 4 | xRohat | [[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spenden !spend](https://www.twitch.tv/xrohat/clip/HonorableFriendlyCamelDogFace-BgdGXvRxEJpSgk0l) | 1.262 | 30s |
-| 5 | BauPenner | [Die knallt aber 🤣🤣](https://www.twitch.tv/baupenner/clip/JazzyColdWatermelonBibleThump-tLgRHkr7q2h95Uw1) | 1.164 | 15s |
-| 6 | LesleyBunny | [LESLEY Tierquälerin](https://www.twitch.tv/lesleybunny/clip/FineGenerousCrabsUWot-vor2cpPc0oSgkndm) | 1.134 | 20s |
-| 7 | BauPenner | [Wenn man sich FREI fühlt 🤣](https://www.twitch.tv/baupenner/clip/PeppyTriumphantBeaverANELE-4sSr5ZrQA9f5NJ-_) | 1.125 | 13s |
-| 8 | BauPenner | [Trick 18000 🤣🤣](https://www.twitch.tv/baupenner/clip/SmallAwkwardVanillaBigBrother-7ipmpvmUicxJUdUv) | 1.108 | 28s |
-| 9 | BauPenner | [Direkt die Tür 🤣](https://www.twitch.tv/baupenner/clip/CrepuscularBoxyElephantSeemsGood-POWGeAv-ZnPj41Xu) | 1.085 | 12s |
-| 10 | Papaplatte | [☀️ GEILER MANN SPIELT GTA 6 ☀️](https://www.twitch.tv/papaplatte/clip/SpinelessLovelyTaroDxCat-VPRMd_G_IHP37VB-) | 895 | 60s |
-| 11 | Papaplatte | [☀️ GEILER MANN SPIELT GTA 6 ☀️](https://www.twitch.tv/papaplatte/clip/PunchyShinyChimpanzeePoooound-VBN9cLycFaRtGgFB) | 629 | 60s |
-| 12 | BauPenner | [Da liebt einer die Tür 🤣🤣](https://www.twitch.tv/baupenner/clip/EnthusiasticIncredulousScallionM4xHeh-tyQFYZW9KEBAtyLr) | 504 | 13s |
-| 13 | MontanaBlack88 ⚠️ nicht TikTok | [Da wird der Rewi gemacht](https://www.twitch.tv/montanablack88/clip/BreakableGoldenLarkCorgiDerp-X5I93mgmLWcCTlNu) | 470 | 30s |
-| 14 | abdu9974 | [f](https://www.twitch.tv/abdu9974/clip/TrustworthyFurtiveYakinikuPogChamp-4AO5-UVRjoqha8Cm) | 467 | 60s |
-| 15 | KDRkitten | [ich komm in die Hölle](https://www.twitch.tv/kdrkitten/clip/DullIcyCoffeeArsonNoSexy-SW5MpjCHmi3Nwhjx) | 465 | 54s |
+| 1 | xRohat | [[DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 18 / !spenden !spend](https://www.twitch.tv/xrohat/clip/HonorableFriendlyCamelDogFace-BgdGXvRxEJpSgk0l) | 1.662 | 30s |
+| 2 | BauPenner | [Die knallt aber 🤣🤣](https://www.twitch.tv/baupenner/clip/JazzyColdWatermelonBibleThump-tLgRHkr7q2h95Uw1) | 1.314 | 15s |
+| 3 | BauPenner | [Wenn man sich FREI fühlt 🤣](https://www.twitch.tv/baupenner/clip/PeppyTriumphantBeaverANELE-4sSr5ZrQA9f5NJ-_) | 1.258 | 13s |
+| 4 | BauPenner | [Trick 18000 🤣🤣](https://www.twitch.tv/baupenner/clip/SmallAwkwardVanillaBigBrother-7ipmpvmUicxJUdUv) | 1.221 | 28s |
+| 5 | BauPenner | [Direkt die Tür 🤣](https://www.twitch.tv/baupenner/clip/CrepuscularBoxyElephantSeemsGood-POWGeAv-ZnPj41Xu) | 1.211 | 12s |
+| 6 | MontanaBlack88 ⚠️ nicht TikTok | [Da wird der Rewi gemacht](https://www.twitch.tv/montanablack88/clip/BreakableGoldenLarkCorgiDerp-X5I93mgmLWcCTlNu) | 955 | 30s |
+| 7 | NiklasWilson | [1](https://www.twitch.tv/niklaswilson/clip/ExcitedPreciousOwlKeyboardCat-gvhl13gXxfCUgJHH) | 715 | 30s |
+| 8 | MontanaBlack88 ⚠️ nicht TikTok | [verknöpft](https://www.twitch.tv/montanablack88/clip/TameAmorphousOrcaJebaited-Y9RF4j-cJnuxt4e1) | 682 | 60s |
+| 9 | Sterzik | [generational fumble](https://www.twitch.tv/sterzik/clip/TawdryDarkPoultryChocolateRain-BA9ZOjp3YseyvJB3) | 543 | 9s |
+| 10 | BauPenner | [Da liebt einer die Tür 🤣🤣](https://www.twitch.tv/baupenner/clip/EnthusiasticIncredulousScallionM4xHeh-tyQFYZW9KEBAtyLr) | 534 | 13s |
+| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Grenade88](https://www.twitch.tv/montanablack88/clip/AntsyCrepuscularPancakePeteZaroll-N_KZS_6sgxWVzDZk) | 488 | 12s |
+| 12 | xRohat | [gooner death](https://www.twitch.tv/xrohat/clip/DeterminedPluckyChamoisAMPEnergy-IT50_bWnI8BdM4ow) | 480 | 40s |
+| 13 | HandOfBlood | [Hänno cosplayed GTA 6 Streamer](https://www.twitch.tv/handofblood/clip/SpinelessCovertFlamingoNotLikeThis-ZcMwapZXc2hzmX9t) | 428 | 50s |
+| 14 | Papaplatte | [Erwischt](https://www.twitch.tv/papaplatte/clip/IcyGentleGullNinjaGrumpy-BVxxXNQumGsz51MO) | 402 | 24s |
+| 15 | MontanaBlack88 ⚠️ nicht TikTok | [Monte will Krokodil füttern](https://www.twitch.tv/montanablack88/clip/FantasticKitschyDovePlanking-qYln5MAFE8qTvWbO) | 365 | 60s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| zarbex | 32.767 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 TAG 3 🦩🌴 ALLES ERKUNDEN UND 10 |
-| Trymacs | 32.547 | 5 Tage GTA 6 Stream! (55% Main Mission) / !Wolt !Emma !Loco! !ESN !Nob |
-| eliasn97 | 22.021 | [DROPS] GTA VI GRIND 🔥 /  !iconleague !doku !eligella !gaming |
-| xRohat | 11.366 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 20 / !spen |
-| HandOfBlood | 11.293 | 🎮 Mein erstes Mal GTA VI / !Drops 🎮 |
-| PietSmiet | 11.164 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 !wer / !Friendlyfire !discord !pt |
-| gta6degamer | 7.586 | Gib deine E-Mail-Adresse ein, um PS5 und GTA6 zu gewinnen! LINK : http |
-| Bonjwa | 4.058 | Aster startet durch ins Wochenende |
-| HamedLoco | 2.322 | ✨[Drops Aktiv]✨ GTA VI MARATHON 100% !? (tag 2)✨  / !clips !streamplan |
-| H0llyLP | 2.287 | GTA 6 (PS5 PRO) - TAG 2 / !holy !holzkern !vod |
-| rewinside | 2.064 | [DROPS] GTA VI - Keiner Spielt das Game wie ich / Secret Loot Location |
-| coachlim | 1.987 | TAG 20 MEIN ERSTER SUBATHON / GTA 6 AUF RUHIGE (DROPS)! / Du musst den |
-| JenNyan | 1.875 | 🌴 Wir schauen uns ALLES in GTA VI an 🌴 ✅DROPS✅ |
-| Niekbeats | 1.816 | SUBATHON TAG 2 OMG WEITER GTA 6 ABFEUERN OMG !subathon / !emma !koro ! |
-| Zombey | 1.691 | GTA 6 - Tag 3 |
+| Trymacs | 35.355 | 5 Tage GTA 6 Stream! (57% Main Mission) / !Wolt !Emma !Loco! !ESN !Nob |
+| zarbex | 32.129 | [DROPS] 🦩🌴 100+ STUNDEN GTA 6 STREAM 🦩🌴 TAG 3 🦩🌴 ALLES ERKUNDEN UND 10 |
+| eliasn97 | 25.716 | [DROPS] GTA VI GRIND 🔥 /  !iconleague !doku !eligella !gaming |
+| xRohat | 11.198 | [DROPS AKTIV] GTA VI RELEASE - 30 TAGE CHARITY STREAM - TAG 20 / !spen |
+| PietSmiet | 8.839 | 🌴🌆🦩GTA VI ★★★★★☆ Drops! PS5Pro !gta6 !wer / !Friendlyfire !discord !pt |
+| Bonjwa | 4.442 | Aster startet durch ins Wochenende |
+| coachlim | 2.831 | TAG 20 MEIN ERSTER SUBATHON / GTA 6 AUF RUHIGE 50% (DROPS)! / Du musst |
+| MauriceWeber | 2.360 | Hausarbeit-Simulator des Jahres, 10/10, ich liebe es |
+| H0llyLP | 2.331 | GTA 6 (PS5 PRO) - TAG 2 / !holy !holzkern !vod |
+| HamedLoco | 2.233 | ✨[Drops Aktiv]✨ GTA VI MARATHON 100% !? (tag 2)✨VATO SHOP ÖFFNET WIEDE |
+| AliBumayeTV | 2.035 | GTA VI RELEASE 🔥 / !dc !drdoods !spotify !youtube !shirt |
+| LusorKoeffizient | 1.967 | GTA 6🔥Ab 4K SUBS 5 Minuten in den ICEPOOL 🥶🧊 [DROPS AKTIV] LEGENDEN im |
+| MckyTV | 1.884 | 🟧 NACHTWACHE MIT  GTA 6  🟧 |
+| ELoTRiX | 1.871 | [13% MAIN STORY] GTA VI Tag 2 OkayChamp / !hunger !SteelSeries -43% !d |
+| Zombey | 1.788 | GTA 6 - Tag 3 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| BauPenner | 7.846 | 7 | – | – |
-| xRohat | 4.791 | 77 | 11.366 | 0,42 |
-| Papaplatte | 4.016 | 67 | – | – |
-| MontanaBlack88 | 2.648 | 87 | – | – |
-| zarbex | 2.482 | 66 | 32.767 | 0,08 |
-| Trymacs | 2.383 | 87 | 32.547 | 0,07 |
-| LesleyBunny | 1.517 | 16 | 674 | 2,25 |
-| KDRkitten | 1.233 | 23 | 1.178 | 1,05 |
-| coachlim | 1.123 | 80 | 1.987 | 0,57 |
-| LusorKoeffizient | 1.027 | 171 | – | – |
-| eliasn97 | 1.021 | 68 | 22.021 | 0,05 |
-| PietSmiet | 923 | 121 | 11.164 | 0,08 |
-| Bonjwa | 774 | 132 | 4.058 | 0,19 |
-| NiklasWilson | 769 | 99 | – | – |
+| MontanaBlack88 | 6.634 | 90 | – | – |
+| BauPenner | 5.538 | 5 | – | – |
+| xRohat | 4.819 | 70 | 11.198 | 0,43 |
+| Trymacs | 1.986 | 85 | 35.355 | 0,06 |
+| zarbex | 1.668 | 67 | 32.129 | 0,05 |
+| LusorKoeffizient | 1.264 | 184 | 1.967 | 0,64 |
+| NiklasWilson | 1.235 | 59 | – | – |
+| HandOfBlood | 881 | 120 | – | – |
+| Sterzik | 749 | 75 | – | – |
+| coachlim | 748 | 83 | 2.831 | 0,26 |
 | SidneyEweka | 743 | 85 | – | – |
+| Bonjwa | 723 | 139 | 4.442 | 0,16 |
+| PietSmiet | 673 | 114 | 8.839 | 0,08 |
+| eliasn97 | 650 | 68 | 25.716 | 0,03 |
+| Papaplatte | 558 | 44 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
