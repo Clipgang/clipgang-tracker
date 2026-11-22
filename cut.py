@@ -348,8 +348,16 @@ def transcribe(src, model_name="small"):
     except ImportError:
         print("Hinweis: faster-whisper fehlt, Untertitel werden uebersprungen.")
         return []
+    import numpy as np
+    # Ton selbst mit ffmpeg dekodieren (16 kHz mono) statt ueber PyAV:
+    # neuere PyAV-Versionen passen nicht zu faster-whispers eigenem Decoder.
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(src), "-vn", "-ac", "1", "-ar", "16000",
+                          "-f", "f32le", "-"], capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, dtype=np.float32)
+    if audio.size == 0:
+        return []
     model = WhisperModel(model_name, device="cpu", compute_type="int8")
-    segments, _ = model.transcribe(str(src), language="de", word_timestamps=True,
+    segments, _ = model.transcribe(audio, language="de", word_timestamps=True,
                                    vad_filter=True, beam_size=5)
     words = []
     for seg in segments:
