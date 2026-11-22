@@ -116,7 +116,8 @@ def layout_lines(d, tokens, font, size, max_w):
     for tok in tokens:
         w = token_width(d, tok, font, size)
         gap = space if line and line[-1][2] else 0
-        if line and line_w + gap + w > max_w:
+        # ein Emoji nie allein in eine neue Zeile setzen, sondern ans letzte Wort haengen
+        if line and line_w + gap + w > max_w and tok[0] != "emoji":
             lines.append((line, line_w))
             line, line_w, gap = [], 0, 0
         line.append(tok)
@@ -137,7 +138,7 @@ def build_overlay(hook, streamer, path, box_center_y=None, tag_y=None):
         for size in range(90, 44, -4):
             font = ImageFont.truetype(str(FONT), size)
             lines = layout_lines(d, tokens, font, size, 860)
-            if len(lines) <= 3:
+            if len(lines) <= 3 and max(w for _, w in lines) <= 920:
                 break
         space = d.textlength(" ", font=font)
         line_h = int(size * 1.18)
