@@ -7,7 +7,7 @@ on:
         description: "Twitch-Clip-Link"
         required: true
       hook:
-        description: "Hook-Text oben (max. ~8 Woerter)"
+        description: "Hook-Text (max. 5-6 Woerter + 1 Emoji)"
         required: false
         default: ""
       streamer:
@@ -23,6 +23,19 @@ on:
         description: "Nur bei Layout facecam: unten-rechts, unten-links, oben-rechts, oben-links oder x,y,b,h in Prozent (leer = gespeicherter Wert)"
         required: false
         default: ""
+      untertitel:
+        description: "Untertitel in der Bildmitte (Hook wandert nach oben)"
+        type: boolean
+        default: false
+      start:
+        description: "Start: 0, Sekunde oder auto (= kurz vor der lautesten Stelle)"
+        required: false
+        default: "0"
+      teile:
+        description: "In wie viele Teile schneiden"
+        type: choice
+        options: ["1", "2"]
+        default: "1"
 
 permissions:
   contents: write
@@ -35,37 +48,30 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Whisper-Modell aus dem Cache holen
+        if: inputs.untertitel
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
       - name: Werkzeuge installieren
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji > /dev/null
-          pip install --quiet yt-dlp pillow
-      - name: Clip laden
+          pip install --quiet -r .github/requirements-schnitt.txt
+      - name: Clip schneiden
         id: load
         env:
           LINK: ${{ inputs.link }}
-          STREAMER: ${{ inputs.streamer }}
-        run: |
-          mkdir -p raw fertig vorschau_tmp
-          yt-dlp --no-playlist -f "best[ext=mp4]/best" -o "raw/clip.%(ext)s" "$LINK"
-          if [ -z "$STREAMER" ]; then
-            STREAMER=$(echo "$LINK" | sed -E 's#.*twitch\.tv/([^/]+)/clip/.*#\1#')
-            case "$STREAMER" in http*|*/*) STREAMER="" ;; esac
-          fi
-          TITLE=$(yt-dlp --no-playlist --print "%(title).50s" "$LINK" | tr -cd '[:alnum:] ._-' | tr ' ' '_')
-          echo "streamer=$STREAMER" >> "$GITHUB_OUTPUT"
-          echo "title=${TITLE:-clip}" >> "$GITHUB_OUTPUT"
-          python cut.py --raster raw/clip.mp4 "vorschau_tmp/${{ github.run_id }}_roh.jpg"
-      - name: Clip schneiden
-        env:
           HOOK: ${{ inputs.hook }}
-          STREAMER: ${{ steps.load.outputs.streamer }}
-          TITLE: ${{ steps.load.outputs.title }}
+          STREAMER: ${{ inputs.streamer }}
           LAYOUT: ${{ inputs.layout }}
           FACECAM: ${{ inputs.facecam }}
+          UNTERTITEL: ${{ inputs.untertitel }}
+          START: ${{ inputs.start }}
+          TEILE: ${{ inputs.teile }}
         run: |
-          OUT="fertig/${STREAMER:-clip}_${TITLE}.mp4"
-          python cut.py raw/clip.mp4 "$OUT" "$HOOK" "$STREAMER" "$LAYOUT" "$FACECAM"
-          python cut.py --vorschau "$OUT" "vorschau_tmp/${{ github.run_id }}_fertig.jpg"
+          export AUFTRAG=$(python -c 'import json,os; e=os.environ; print(json.dumps({"format":"einzel","link":e["LINK"],"hook":e["HOOK"],"streamer":e["STREAMER"],"layout":e["LAYOUT"],"facecam":e["FACECAM"],"untertitel":e["UNTERTITEL"]=="true","start":e["START"] or "0","teile":int(e["TEILE"] or 1)}))')
+          python auftrag.py
           ls -la fertig
       - uses: actions/upload-artifact@v4
         with:
@@ -73,8 +79,9 @@ jobs:
           path: fertig/
           retention-days: 3
       - name: Vorschaubilder speichern
-        if: always() && steps.load.outcome == 'success'
+        if: always()
         run: |
+          ls vorschau_tmp/*.jpg > /dev/null 2>&1 || exit 0
           cp vorschau_tmp/*.jpg "$RUNNER_TEMP"/
           git config user.name "clipgang-bot"
           git config user.email "clipgang-bot@users.noreply.github.com"

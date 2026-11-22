@@ -1,0 +1,67 @@
+name: Auftrag ausfuehren
+
+# Claude schreibt den Auftrag als eine Zeile JSON (in der Morgen-Auswertung).
+# Hier unter "Run workflow" einfuegen, starten, fertiges Video unten bei "Artifacts" laden.
+
+on:
+  workflow_dispatch:
+    inputs:
+      auftrag:
+        description: "Auftrag von Claude (eine Zeile, beginnt mit {)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/requirements-schnitt.txt
+      - name: Whisper-Modell aus dem Cache holen
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: Werkzeuge installieren
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji > /dev/null
+          pip install --quiet -r .github/requirements-schnitt.txt
+      - name: Auftrag ausfuehren
+        env:
+          AUFTRAG: ${{ inputs.auftrag }}
+        run: python auftrag.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fertig
+          path: fertig/
+          retention-days: 3
+      - name: Vorschaubilder speichern
+        if: always()
+        run: |
+          ls vorschau_tmp/*.jpg > /dev/null 2>&1 || exit 0
+          cp vorschau_tmp/*.jpg "$RUNNER_TEMP"/
+          git config user.name "clipgang-bot"
+          git config user.email "clipgang-bot@users.noreply.github.com"
+          if git fetch -q --depth 1 origin vorschau; then
+            git checkout -q -B vorschau FETCH_HEAD
+          else
+            git checkout -q --orphan vorschau
+            git rm -rfq --cached . > /dev/null
+          fi
+          mkdir -p vorschau
+          cp "$RUNNER_TEMP"/*.jpg vorschau/
+          ls -t vorschau/*.jpg | tail -n +41 | xargs -r rm -f
+          git add -A vorschau
+          git commit -qm "Vorschau ${{ github.run_id }}" || exit 0
+          for i in 1 2 3 4 5; do
+            git push -q origin vorschau && break
+            sleep 3
+            git pull -q --rebase origin vorschau
+          done

@@ -6,6 +6,7 @@ TWITCH_CLIENT_ID und TWITCH_CLIENT_SECRET (als GitHub Secrets hinterlegt).
 
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.parse
@@ -104,6 +105,7 @@ def collect(tw, now):
     watch = [w.lower() for w in CONFIG["watchlist"]]
     users = tw.get("users", {"login": watch}).get("data", []) if watch else []
     ids = {u["id"]: u["login"] for u in users}
+    profiles = {u["login"]: u.get("profile_image_url", "") for u in users}
 
     clips = {}
     for c in tw.paged("clips", {"game_id": game_id, "started_at": since, "first": 100}, max_pages=CONFIG["game_clip_pages"]):
@@ -113,6 +115,7 @@ def collect(tw, now):
     if live:
         live_users = tw.get("users", {"login": [l["login"] for l in live[:100]]}).get("data", [])
         broadcaster_ids |= {u["id"] for u in live_users}
+        profiles.update({u["login"]: u.get("profile_image_url", "") for u in live_users})
     for bid in broadcaster_ids:
         for c in tw.paged("clips", {"broadcaster_id": bid, "started_at": since, "first": 100}, max_pages=1):
             if c.get("game_id") == game_id:
@@ -135,6 +138,7 @@ def collect(tw, now):
         "game": {"id": game_id, "name": game_name},
         "live": live,
         "clips": clip_list,
+        "profiles": profiles,
     }
 
 
@@ -164,6 +168,27 @@ def cell(text, limit=None):
     return text[:limit] if limit else text
 
 
+PCT = re.compile(r"(\d{1,3})(?:[.,]\d+)?\s*(?:/\s*100\s*)?%")
+STORY_WORDS = re.compile(r"main|story|mission|chapter|kapitel|platin|fortschritt|kampagne", re.I)
+
+
+def progress_from_title(title):
+    """Story-Fortschritt aus dem Stream-Titel. Ein % neben Story-Woertern zaehlt zuerst;
+    ein nacktes "100%" ist meist ein Ziel ("100% durchzocken") und wird ignoriert."""
+    title = title or ""
+    near, other = [], []
+    for m in PCT.finditer(title):
+        v = int(m.group(1))
+        if not 0 < v <= 100:
+            continue
+        ctx = title[max(0, m.start() - 25):m.end() + 25]
+        (near if STORY_WORDS.search(ctx) else other).append(v)
+    if near:
+        return near[0]
+    other = [v for v in other if v < 100]
+    return other[0] if other else None
+
+
 def write_report(snapshot, path):
     stats = per_streamer(snapshot)
     no_tiktok = {x.lower() for x in CONFIG.get("no_tiktok", [])}
@@ -190,6 +215,17 @@ def write_report(snapshot, path):
     else:
         lines.append("Gerade streamt niemand GTA 6 auf Deutsch.")
     lines.append("")
+
+    progress = []
+    for l in snapshot["live"]:
+        p = progress_from_title(l["title"])
+        if p and l["viewers"] >= 500:
+            progress.append((p, l))
+    if progress:
+        lines += ["## Story-Fortschritt laut Stream-Titel", "", "| Streamer | Fortschritt | Zuschauer |", "|---|---|---|"]
+        for p, l in sorted(progress, key=lambda x: (-x[0], -x[1]["viewers"]))[:10]:
+            lines.append(f"| {l['name']} | {p} % | {fmt(l['viewers'])} |")
+        lines.append("")
 
     lines += ["## Streamer-Ranking nach Clip-Views", ""]
     ranked = sorted(stats.values(), key=lambda s: -s["clip_views"])
