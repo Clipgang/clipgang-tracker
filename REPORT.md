@@ -1,71 +1,72 @@
-# Clipgang Report – 23.11.2026 14:27 Uhr
+# Clipgang Report – 23.11.2026 17:15 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | BauPenner | [Mit ganzem Körper](https://www.twitch.tv/baupenner/clip/FlaccidVainCheetahNinjaGrumpy-ObgvzxgWh3U_oG2y) | 2.121 | 8s |
-| 2 | BauPenner | [Halber Tank ???](https://www.twitch.tv/baupenner/clip/FragileBraveTomatoImGlitch-tV-QX82PJsHvczeh) | 1.884 | 15s |
-| 3 | BauPenner | [Crash Power 🤣](https://www.twitch.tv/baupenner/clip/UnusualElegantLorisBuddhaBar-6ckCavZ7zQi6bDSG) | 1.806 | 19s |
-| 4 | BauPenner | [Neue Ausbildung !!!](https://www.twitch.tv/baupenner/clip/ApatheticEmpathicZucchiniOptimizePrime-OCUMovUXrFZ2fyDw) | 1.685 | 14s |
-| 5 | BauPenner | [Hulk bei GTA6 ???](https://www.twitch.tv/baupenner/clip/FantasticFaintSushiKippa-8OzUSuNrK7RKqZPG) | 1.435 | 22s |
-| 6 | BauPenner | [Wenn die Frau Verständnis für die GTA sucht hat](https://www.twitch.tv/baupenner/clip/HilariousFineJellyfishAsianGlow-u5yIVUxUSAMWubuG) | 1.126 | 16s |
-| 7 | SCHRADIN | [Was war das](https://www.twitch.tv/schradin/clip/SpineyAgitatedOctopusPJSugar-zMD-jeQwezFuXysl) | 458 | 12s |
-| 8 | xRohat | [Niko Bellic comeback aura](https://www.twitch.tv/xrohat/clip/NeighborlyCutePidgeonWow-_KgigH3ww2aWDP21) | 341 | 59s |
-| 9 | xRohat | [[DROPS] GTA VI / CHARITYSTREAM - TAG 22 / !spenden !spendenziel !giveaway !wolt ](https://www.twitch.tv/xrohat/clip/TawdrySingleAntelopeBrokeBack-GN2Xq71MCLfYOglL) | 321 | 30s |
-| 10 | XxREBELLIOxX | [Mr. Superpilot gibt sein Bestes! - GTA6](https://www.twitch.tv/xxrebellioxx/clip/SassyAthleticCrabsPeteZaroll-tp1juXmOI0pc5irx) | 307 | 20s |
-| 11 | eliasn97 | [STEIG EIN](https://www.twitch.tv/eliasn97/clip/HilariousShinyWalrusKevinTurtle-NUOlCi5ndVOr-0vO) | 304 | 35s |
-| 12 | xRohat | [aha](https://www.twitch.tv/xrohat/clip/EnticingAdventurousBaguetteGingerPower-Y6Mp7Z-8U4bz8bpx) | 279 | 18s |
-| 13 | zarbex | [was ist mit dem](https://www.twitch.tv/zarbex/clip/TrappedBillowingPigCorgiDerp-w0z9clAGzlTR5iSk) | 244 | 30s |
-| 14 | Repaz | [Noway](https://www.twitch.tv/repaz/clip/MushyManlyTitanVoteNay-owVRFCtmmFT9cIPe) | 224 | 30s |
-| 15 | eliasn97 | [gtoy fail gta 6 #1](https://www.twitch.tv/eliasn97/clip/ResourcefulJazzyHippoOSkomodo-zB0hOU4EP9s1nra0) | 220 | 31s |
+| 1 | BauPenner | [Mit ganzem Körper](https://www.twitch.tv/baupenner/clip/FlaccidVainCheetahNinjaGrumpy-ObgvzxgWh3U_oG2y) | 2.794 | 8s |
+| 2 | BauPenner | [Crash Power 🤣](https://www.twitch.tv/baupenner/clip/UnusualElegantLorisBuddhaBar-6ckCavZ7zQi6bDSG) | 1.874 | 19s |
+| 3 | BauPenner | [Hulk bei GTA6 ???](https://www.twitch.tv/baupenner/clip/FantasticFaintSushiKippa-8OzUSuNrK7RKqZPG) | 1.526 | 22s |
+| 4 | BauPenner | [Wenn die Frau Verständnis für die GTA sucht hat](https://www.twitch.tv/baupenner/clip/HilariousFineJellyfishAsianGlow-u5yIVUxUSAMWubuG) | 1.161 | 16s |
+| 5 | SCHRADIN | [Was war das](https://www.twitch.tv/schradin/clip/SpineyAgitatedOctopusPJSugar-zMD-jeQwezFuXysl) | 598 | 12s |
+| 6 | eliasn97 | [STEIG EIN](https://www.twitch.tv/eliasn97/clip/HilariousShinyWalrusKevinTurtle-NUOlCi5ndVOr-0vO) | 365 | 35s |
+| 7 | xRohat | [[DROPS] GTA VI / CHARITYSTREAM - TAG 22 / !spenden !spendenziel !giveaway !wolt ](https://www.twitch.tv/xrohat/clip/TawdrySingleAntelopeBrokeBack-GN2Xq71MCLfYOglL) | 346 | 30s |
+| 8 | XxREBELLIOxX | [Mr. Superpilot gibt sein Bestes! - GTA6](https://www.twitch.tv/xxrebellioxx/clip/SassyAthleticCrabsPeteZaroll-tp1juXmOI0pc5irx) | 317 | 20s |
+| 9 | xRohat | [aha](https://www.twitch.tv/xrohat/clip/EnticingAdventurousBaguetteGingerPower-Y6Mp7Z-8U4bz8bpx) | 299 | 18s |
+| 10 | eliasn97 | [gtoy fail gta 6 #1](https://www.twitch.tv/eliasn97/clip/ResourcefulJazzyHippoOSkomodo-zB0hOU4EP9s1nra0) | 292 | 31s |
+| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Zieh die blank die Dinger!](https://www.twitch.tv/montanablack88/clip/BillowingTallPotGingerPower-c5nutY8OgIS7KHbt) | 241 | 30s |
+| 12 | xRohat | [.](https://www.twitch.tv/xrohat/clip/BlueImpossibleBeaverKreygasm-7vLFXmf791Mq96vp) | 240 | 52s |
+| 13 | Repaz | [Noway](https://www.twitch.tv/repaz/clip/MushyManlyTitanVoteNay-owVRFCtmmFT9cIPe) | 233 | 30s |
+| 14 | KDRkitten | [Nicht schubsen hab im Rucksack](https://www.twitch.tv/kdrkitten/clip/TolerantSuperCrowGrammarKing-9d8Ov-jp9tUw6xCT) | 231 | 40s |
+| 15 | Timgioh | [ASMR Tim](https://www.twitch.tv/timgioh/clip/AuspiciousSlipperyCockroachAliens-vHMOeBNeOkeMDcc0) | 215 | 23s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| MontanaBlack88 | 27.344 | [DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS / GTA6 DROPS AKTIV !dr |
-| Dhalucard | 2.177 | [Drops] GTA VI (HEUTE FINALE BADGE?!) // 16' - The Crew: Motorfest [!T |
-| HamedLoco | 1.583 | ✨[90.1%] GTA VI MARATHON 100% (tag 5)✨VATO SHOP OFFEN  !VATO ✨ / !clip |
-| nooreax | 1.262 | 🚨 URUTOX NACHTSCHICHT 🚨 GTA VI ~70% 🚨 2,5 MONATE 24/7 LIVE 🚨 TAG 45 🚨  |
-| V1nKub | 714 | !DROPS AN✅ ALLE GTA 6 EASTER EGGS FINDEN 👑 STORY AUF 100% 🔴 / !Prep !T |
-| Sturmwaffel | 669 | REIN DA! |
-| sarahtoninx9 | 523 | erstes mal gta tag 5? 6? time eludes me !grover !elusa |
-| LesleyBunny | 519 | 🐰Kochen + Ganzen Tag GTA 6🐰🔴VOD🔴 MEIN ERSTER SUBATHON (Tag 26) !subath |
-| Emmo | 482 | Wir gehen rein in die GTA Sucht (50% Story) 💫 !ytp !insta 🤍!ahead !nat |
-| Askeldan | 478 | 5x GTA 6 & PS5 GIVEAWAY !gta !gtawt / GTA 6 FULL WALKTHROUGH / !charit |
-| Franzi | 435 | DROPS✅🌴 GTA VI HYPE! 🌴 / !koro !prepmymeal !holy #Werbung |
-| DieHahn | 431 | Neue Grafikfilter testen! !ENEBA #Werbung |
-| CSYON | 415 | DAS ENDE? - GTA 6 Story |
-| shaker | 405 | 🕺[DROPS] GTA6 !60FPS AZB STREAM WOWOWO🕺!voko !socials ͏ |
-| Meloonie | 385 | Melcia wider unterwegs / !instick !24 |
+| zarbex | 23.754 | [DROPS] 🦩🌴 MR. GEIL STREAMT 🦩🌴 GTA 6 STORY BEENDEN? 🦩🌴 80% FERTIG 🦩🌴 I |
+| SCHRADIN | 5.835 | GTA VI STORY..! HEUTE HOLEN WIR UNS DIE GOLDENE MG/ !hub !shop |
+| H0llyLP | 2.138 | 10/10 Game poggies ~ GTA 6 (PS5 PRO) KAPITEL 3 - TAG 5 / !holy !holzke |
+| HamedLoco | 2.105 | ✨[91.1%]✨GTA VI MARATHON 100% !? (tag 4)✨VATO SHOP ÖFFNET WIEDER !VATO |
+| Niekbeats | 1.893 | SUBATHON TAG 5 ABFEUERN! !subathon / !emma !koro !holyᵂᴱᴿᴮᵁᴺᴳ |
+| rewinside | 1.512 | [DROPS] GTA VI & später DICKE GAMESHOW |
+| LesleyBunny | 1.253 | 🐰Ganzen Tag GTA 6🐰MEIN ERSTER SUBATHON (Tag 27) !subathon🐰!idealo !HOL |
+| Repaz | 1.017 | 🌴 !DROPS AKTIV 🌴 UNGLAUBLICHES GAME WOW 🌴 TAG 5 - STORY 63/100% 🌴 PS5  |
+| fustler | 1.003 | 5 Tag Fustler-Thon - GTA 6 Grind, danach Work !fustlerthon !snocks !yf |
+| V1nKub | 976 | !DROPS AN✅ ALLE GTA 6 EASTER EGGS FINDEN 👑 STORY AUF 100% 🔴 / !Prep !T |
+| Sturmwaffel | 831 | REIN DA! |
+| kutcherlol | 791 | ich bin zurück wie der ceo von nvidia cozy gta !story für zusammenfass |
+| tim_vollert | 766 | Tim Vollert spielt GTA 6 |
+| sarahtoninx9 | 702 | erstes mal gta tag 5? 6? time eludes me !grover !elusa |
+| Askeldan | 579 | 5x GTA 6 & PS5 GIVEAWAY !gta !gtawt / GTA 6 FULL WALKTHROUGH / !charit |
 
 ## Story-Fortschritt laut Stream-Titel
 
 | Streamer | Fortschritt | Zuschauer |
 |---|---|---|
-| V1nKub | 100 % | 714 |
-| HamedLoco | 90 % | 1.583 |
-| nooreax | 70 % | 1.262 |
+| V1nKub | 100 % | 976 |
+| HamedLoco | 91 % | 2.105 |
+| zarbex | 80 % | 23.754 |
+| Repaz | 63 % | 1.017 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| BauPenner | 10.057 | 6 | 12 | 838,08 |
-| xRohat | 2.511 | 85 | – | – |
-| zarbex | 1.445 | 72 | – | – |
-| Trymacs | 1.365 | 98 | – | – |
-| eliasn97 | 882 | 43 | – | – |
-| marco_scm | 635 | 68 | – | – |
-| SCHRADIN | 603 | 39 | – | – |
-| MontanaBlack88 | 529 | 66 | 27.344 | 0,02 |
-| Repaz | 425 | 8 | – | – |
-| HamedLoco | 345 | 108 | 1.583 | 0,22 |
-| Timgioh | 331 | 2 | – | – |
-| XxREBELLIOxX | 307 | 1 | – | – |
-| bezo676 | 299 | 5 | 20 | 14,95 |
-| KDRkitten | 297 | 14 | – | – |
-| Niekbeats | 288 | 48 | – | – |
+| BauPenner | 7.355 | 4 | 15 | 490,33 |
+| xRohat | 2.008 | 71 | – | – |
+| MontanaBlack88 | 1.399 | 85 | – | – |
+| eliasn97 | 1.044 | 44 | – | – |
+| zarbex | 973 | 62 | 23.754 | 0,04 |
+| Trymacs | 782 | 90 | – | – |
+| Repaz | 768 | 9 | 1.017 | 0,76 |
+| SCHRADIN | 679 | 37 | 5.835 | 0,12 |
+| KDRkitten | 570 | 14 | – | – |
+| Niekbeats | 518 | 74 | 1.893 | 0,27 |
+| marco_scm | 500 | 49 | – | – |
+| coachlim | 389 | 28 | – | – |
+| Timgioh | 382 | 2 | – | – |
+| H0llyLP | 365 | 87 | 2.138 | 0,17 |
+| HamedLoco | 349 | 101 | 2.105 | 0,17 |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
