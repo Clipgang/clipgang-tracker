@@ -1,74 +1,70 @@
-# Clipgang Report – 25.11.2026 02:23 Uhr
+# Clipgang Report – 25.11.2026 05:13 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | BauPenner | [Entsorge den Helikopter 🤣🤣](https://www.twitch.tv/baupenner/clip/MoistCautiousFoxPunchTrees-slESOVAU20sjv-jM) | 1.399 | 20s |
-| 2 | MontanaBlack88 ⚠️ nicht TikTok | [story dom](https://www.twitch.tv/montanablack88/clip/SpinelessCarefulWrenKeepo-QEJdxU7qyHf8g8K9) | 1.354 | 60s |
-| 3 | BauPenner | [Was ist das 🤣🤣](https://www.twitch.tv/baupenner/clip/HedonisticNaiveVelociraptorWholeWheat-UQe8DIGgSV4ALc73) | 1.241 | 16s |
-| 4 | BauPenner | [Neuer Flugzeug Experte !!](https://www.twitch.tv/baupenner/clip/ProtectiveHappyPancakeDxAbomb-oenrYWL3AZ2DUQ8s) | 1.120 | 17s |
-| 5 | BauPenner | [Gratis Auto ??](https://www.twitch.tv/baupenner/clip/HomelyCrazyCucumberStinkyCheese-JD80845bdynviMLG) | 1.062 | 20s |
-| 6 | BauPenner | [Ommmaaaaaaaa  🤣🤣](https://www.twitch.tv/baupenner/clip/SavageAntediluvianGullTBTacoRight-Qs0aggL7mLjspke-) | 1.045 | 15s |
-| 7 | BauPenner | [Keine 5 Sekunden](https://www.twitch.tv/baupenner/clip/HappyBlightedWheelPeanutButterJellyTime-AXek7C_R9bRjmB27) | 921 | 17s |
-| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Dom](https://www.twitch.tv/montanablack88/clip/CorrectBadPeppermintStrawBeary-b8zo5F_Q0KmcEvLM) | 722 | 60s |
-| 9 | KeysJore | [So sollte man nicht fahren Kinder!!!](https://www.twitch.tv/keysjore/clip/ProudRelievedWatermelonBudStar-pplT_8XIVAPsgt25) | 669 | 25s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [manuellsen](https://www.twitch.tv/montanablack88/clip/PowerfulDarlingWheelBudStar-3eYh2n91F9a_o_aV) | 595 | 35s |
-| 11 | grxneronkel | [Lucia im Traum gefangen. GTA 6](https://www.twitch.tv/grxneronkel/clip/BitterPiliableWebItsBoshyTime-QLxdPVMkD_lFEhxs) | 464 | 60s |
-| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Nicht Sterben, ganz wichtig.](https://www.twitch.tv/montanablack88/clip/InquisitiveScaryTarsierSpicyBoy-n-NvJOH7h6HXbQz3) | 452 | 30s |
-| 13 | grxneronkel | [BigMoney? am ende von Minenschacht GTA 6](https://www.twitch.tv/grxneronkel/clip/AgreeableFairEmuNotLikeThis-cYx-0LqpaVxiIvG1) | 448 | 46s |
-| 14 | grxneronkel | [Jagd Season GTA 6](https://www.twitch.tv/grxneronkel/clip/DepressedOutstandingCocoaYouWHY-vBWfh_H3RTgS1Etx) | 382 | 30s |
-| 15 | MontanaBlack88 ⚠️ nicht TikTok | [Nicht sterben ist immer ganz wichtig - Easter Egg Fail](https://www.twitch.tv/montanablack88/clip/YawningBlitheSquirrelSMOrc-jXOU76i6qJBFZVNd) | 381 | 60s |
+| 1 | MontanaBlack88 ⚠️ nicht TikTok | [story dom](https://www.twitch.tv/montanablack88/clip/SpinelessCarefulWrenKeepo-QEJdxU7qyHf8g8K9) | 1.466 | 60s |
+| 2 | BauPenner | [Entsorge den Helikopter 🤣🤣](https://www.twitch.tv/baupenner/clip/MoistCautiousFoxPunchTrees-slESOVAU20sjv-jM) | 1.426 | 20s |
+| 3 | BauPenner | [Was ist das 🤣🤣](https://www.twitch.tv/baupenner/clip/HedonisticNaiveVelociraptorWholeWheat-UQe8DIGgSV4ALc73) | 1.269 | 16s |
+| 4 | BauPenner | [Neuer Flugzeug Experte !!](https://www.twitch.tv/baupenner/clip/ProtectiveHappyPancakeDxAbomb-oenrYWL3AZ2DUQ8s) | 1.140 | 17s |
+| 5 | BauPenner | [Gratis Auto ??](https://www.twitch.tv/baupenner/clip/HomelyCrazyCucumberStinkyCheese-JD80845bdynviMLG) | 1.080 | 20s |
+| 6 | BauPenner | [Ommmaaaaaaaa  🤣🤣](https://www.twitch.tv/baupenner/clip/SavageAntediluvianGullTBTacoRight-Qs0aggL7mLjspke-) | 1.062 | 15s |
+| 7 | BauPenner | [Keine 5 Sekunden](https://www.twitch.tv/baupenner/clip/HappyBlightedWheelPeanutButterJellyTime-AXek7C_R9bRjmB27) | 940 | 17s |
+| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Dom](https://www.twitch.tv/montanablack88/clip/CorrectBadPeppermintStrawBeary-b8zo5F_Q0KmcEvLM) | 785 | 60s |
+| 9 | KeysJore | [So sollte man nicht fahren Kinder!!!](https://www.twitch.tv/keysjore/clip/ProudRelievedWatermelonBudStar-pplT_8XIVAPsgt25) | 697 | 25s |
+| 10 | MontanaBlack88 ⚠️ nicht TikTok | [manuellsen](https://www.twitch.tv/montanablack88/clip/PowerfulDarlingWheelBudStar-3eYh2n91F9a_o_aV) | 642 | 35s |
+| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Nicht Sterben, ganz wichtig.](https://www.twitch.tv/montanablack88/clip/InquisitiveScaryTarsierSpicyBoy-n-NvJOH7h6HXbQz3) | 463 | 30s |
+| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Nicht sterben ist immer ganz wichtig - Easter Egg Fail](https://www.twitch.tv/montanablack88/clip/YawningBlitheSquirrelSMOrc-jXOU76i6qJBFZVNd) | 396 | 60s |
+| 13 | nooreax | [nooreax muss Stream beenden](https://www.twitch.tv/nooreax/clip/LazyObliviousVanillaKlappa-HwypArJRIowCYHVP) | 357 | 60s |
+| 14 | MontanaBlack88 ⚠️ nicht TikTok | [kinder und geld](https://www.twitch.tv/montanablack88/clip/AgileBrightRavenTheRinger-VIkYfjDlssuaJKYY) | 346 | 60s |
+| 15 | MontanaBlack88 ⚠️ nicht TikTok | [geld talk 1](https://www.twitch.tv/montanablack88/clip/FlaccidAuspiciousOpossumRalpherZ-wpwHO6hLOsWDHQCT) | 263 | 60s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| MckyTV | 2.520 | 🟧  GTA 6  (85%) 🟧 |
-| mertabimula | 2.422 | GTA VI [59%] ES GEHT WEITER 🔥 / !sidejeans !elusa !more !sucuk !insta  |
-| DirkNeuenfelsZwo | 1.143 | 🚗 GTA VI – Die Story geht weiter [PS5 PRO / DROPS] 🚗 !EMP !Wolt !Shake |
-| anaaja | 1.106 | [!Badge] 🧡 DEINE FAV POV 🧡 GTA6 53/100% PLATIN GAMEPLAY 🧡 / !insta !el |
-| Timgioh | 1.046 | [DROPS] [9% Story] GTA 6 LIVE 🚨 Wie lange bleib ich ohne Fahndungsster |
-| iNoiizY | 749 | [DROPS ENABLED] GTA 6 Grind / 69% 🔥😯 // !drops !scuf !AMD !yt !tiktok  |
-| Ernesto | 700 | LATE NIGHT GTA 6 ACTION !! 🔥🔥🔥 |
-| Heideltraut | 659 | ich bin zurück 🌴 !scuf !merch #werbung |
-| DerKC | 566 | [31%] dicker GTA 6 Latenight Grind morgen Fifa yaa !prime !eneba !coin |
-| Furo99 | 488 | GTA VI / wie wird unsere Geschichte enden? |
-| Mossinossi | 478 | GrandTheftAuto 6 by Mossinossi |
-| earliboy | 413 | Rin in den Grind 👀 Community Server → !SubServer 😍 !Uncut !VOD 🔷!Nitra |
-| KELRE0N | 403 | Here we go again / !lvm !codes |
-| Dekii | 398 | ⭐ [DROPS AKTIV] GTA6 Story Grind ⭐ / !vpn !operagx !tipsy !4owls !prep |
-| EdenNymph | 297 | GTA SUCHT, HILFE !!! / DROPS & SUB BADGE AKTIV  / !SNOCKS !NATURTREU ! |
+| MckyTV | 2.479 | 🟧  GTA 6  (85%) 🟧 |
+| DerKC | 520 | [31%] dicker GTA 6 Latenight Grind morgen Fifa yaa !prime !eneba !coin |
+| Furo99 | 358 | GTA VI / wie wird unsere Geschichte enden? |
+| LesleyBunny | 311 | 🐰GHGuessr Cup üben + GTA 6 ZOCKEN🐰DAS ENDE VOM ERSTEN SUBATHON? (Tag 2 |
+| LOONEY | 260 | www.luckylooney.com |
+| Viernulla | 202 | Welcome to the Vice City Heat ⭐GTA 6⭐ #5🔞▶️!dc ▶️!gportal |
+| Rubaz | 195 | 🏆 WORLD RECORD ATTEMPT: GTA VI STORY MODE DURCHSPIELEN! / NO SLEEP CHA |
+| Sxak | 164 | Jetzt werden Ärsche versohlt! |
+| guirlyyy | 133 | [DROPS AKTIV] 🌴STREAM OHNE WERBUNG! / über 110h+ ingamezime / Leere Hü |
+| FhexyTV | 112 | 🔴 Euer Kanal für 24/7 #GTA VI   Channel  🔴 Hauptkanal --> @Fhexy |
+| juunited | 110 | GTA VI // !socials !spotify |
+| ShinRaAbi | 100 | GTA 6 PS5 Pro // !clip !vod #ubisoftpartner #werbung |
+| JustDanyu | 82 | 🔴 [DROPS] Hier wirst du dich wohlfühlen - Gemeinsame Nächte in Vice Ci |
+| bezo676 | 76 | GTA 6 Live aus dem Kiez / !spenden #Werbung |
+| Gert_Og | 73 | Nachtschicht! 😶‍🌫️ Dab n Vape Night 🔥 / !dc !insta |
 
 ## Story-Fortschritt laut Stream-Titel
 
 | Streamer | Fortschritt | Zuschauer |
 |---|---|---|
-| MckyTV | 85 % | 2.520 |
-| iNoiizY | 69 % | 749 |
-| mertabimula | 59 % | 2.422 |
-| anaaja | 53 % | 1.106 |
-| DerKC | 31 % | 566 |
-| Timgioh | 9 % | 1.046 |
+| MckyTV | 85 % | 2.479 |
+| DerKC | 31 % | 520 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| MontanaBlack88 | 7.325 | 91 | – | – |
-| BauPenner | 6.788 | 6 | – | – |
-| grxneronkel | 1.588 | 4 | – | – |
-| zarbex | 828 | 80 | – | – |
-| KeysJore | 669 | 1 | – | – |
-| LesleyBunny | 456 | 86 | 284 | 1,61 |
-| nooreax | 377 | 29 | – | – |
-| NiklasWilson | 180 | 23 | – | – |
-| Timgioh | 177 | 39 | 1.046 | 0,17 |
-| EisteeLePeach_1 | 172 | 2 | – | – |
-| Dekii | 166 | 2 | 398 | 0,42 |
-| Trymacs | 164 | 41 | – | – |
-| LusorKoeffizient | 151 | 1 | – | – |
-| Dhalucard | 145 | 1 | – | – |
+| MontanaBlack88 | 7.814 | 91 | – | – |
+| BauPenner | 6.917 | 6 | – | – |
+| zarbex | 869 | 86 | – | – |
+| KeysJore | 697 | 1 | – | – |
+| nooreax | 392 | 27 | – | – |
+| LesleyBunny | 317 | 88 | 311 | 1,02 |
+| NiklasWilson | 186 | 23 | – | – |
+| Timgioh | 177 | 39 | – | – |
+| Trymacs | 170 | 44 | – | – |
+| Dhalucard | 164 | 1 | – | – |
+| LusorKoeffizient | 162 | 1 | – | – |
 | H0llyLP | 137 | 76 | – | – |
+| Zombey | 122 | 88 | – | – |
+| anaaja | 113 | 68 | – | – |
+| maxiliecuy | 87 | 12 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
