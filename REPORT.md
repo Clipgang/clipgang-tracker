@@ -1,73 +1,76 @@
-# Clipgang Report – 26.11.2026 17:12 Uhr
+# Clipgang Report – 26.11.2026 20:05 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | BauPenner | [Panzer Olleeeeeee](https://www.twitch.tv/baupenner/clip/AmazingCloudyLEDSquadGoals-d83p2N3_ykaEOzTf) | 2.824 | 29s |
-| 2 | BauPenner | [Erste mal in der Militärbasis !!!](https://www.twitch.tv/baupenner/clip/EasySmilingKumquatRlyTho-C3LFX1zQePyCZ9n8) | 1.341 | 54s |
-| 3 | BauPenner | [Viele Leben hat der Panzer nicht oder ??](https://www.twitch.tv/baupenner/clip/EsteemedInspiringTofuDerp-p7GJCJ_chDbefh21) | 1.212 | 24s |
-| 4 | PietSmiet | [random Quote](https://www.twitch.tv/pietsmiet/clip/BeautifulSoftLasagnaMcaT-2TDFxkNcIXYm4V0U) | 370 | 5s |
-| 5 | rixordo | [Redeverbot xD](https://www.twitch.tv/rixordo/clip/CourageousBelovedIcecreamJonCarnage-CXcqH3hyWTvpIWjs) | 357 | 18s |
-| 6 | rixordo | [Bester Fluchtfahrer Kappa](https://www.twitch.tv/rixordo/clip/VainGoldenBoarBatChest-K8zJcvoWs_wYkgzh) | 341 | 17s |
-| 7 | eliasn97 | [Kroko hat mich angefasst](https://www.twitch.tv/eliasn97/clip/PreciousFreezingFlamingoPastaThat-t71QGuvQ5tt6BJmi) | 334 | 21s |
-| 8 | rixordo | [CUT!! xD](https://www.twitch.tv/rixordo/clip/HeadstrongIncredulousLyrebirdDendiFace-eFcRIIWybLPij6ud) | 320 | 50s |
-| 9 | Rubaz | [Rubaz Schießt gegen Eistee](https://www.twitch.tv/rubaz/clip/PeppyPiliableLegThunBeast-JtskL861PmnpnmDN) | 305 | 20s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [VAR](https://www.twitch.tv/montanablack88/clip/SparklyDelightfulSquidJKanStyle-j8wCWVRslWN2polD) | 260 | 6s |
-| 11 | rixordo | [bro hat zu viel spaß haha](https://www.twitch.tv/rixordo/clip/FineRenownedMarrowRickroll-MaIwy1OdOuBenJoN) | 233 | 18s |
-| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schafft es in den Bunker](https://www.twitch.tv/montanablack88/clip/BoxyImpartialFiddleheadsPanicBasket-UVecwsCgf_E0tdBj) | 224 | 60s |
-| 13 | rixordo | [Close one :D](https://www.twitch.tv/rixordo/clip/WiseEnticingOctopusPanicBasket-F376mgPbhYxTy7mH) | 219 | 16s |
-| 14 | LesleyBunny | [Subathon Ende](https://www.twitch.tv/lesleybunny/clip/NaiveExquisiteSkunkKappaWealth-yN85t6Orf9K4Hiz_) | 214 | 47s |
-| 15 | Gnu_Live | [GnuMo ⚔️Horror und GTA 6](https://www.twitch.tv/gnu_live/clip/BoredOpenSalsifyDuDudu-YgPyKl0V_4P4SMWb) | 214 | 30s |
+| 1 | BauPenner | [Panzer Olleeeeeee](https://www.twitch.tv/baupenner/clip/AmazingCloudyLEDSquadGoals-d83p2N3_ykaEOzTf) | 4.259 | 29s |
+| 2 | BauPenner | [Erste mal in der Militärbasis !!!](https://www.twitch.tv/baupenner/clip/EasySmilingKumquatRlyTho-C3LFX1zQePyCZ9n8) | 1.419 | 54s |
+| 3 | BauPenner | [Viele Leben hat der Panzer nicht oder ??](https://www.twitch.tv/baupenner/clip/EsteemedInspiringTofuDerp-p7GJCJ_chDbefh21) | 1.304 | 24s |
+| 4 | MontanaBlack88 ⚠️ nicht TikTok | [Montes neues Aquarium](https://www.twitch.tv/montanablack88/clip/EntertainingEasyRadicchioBabyRage-ZdTNbfH1s-qfE8rj) | 404 | 60s |
+| 5 | rixordo | [Redeverbot xD](https://www.twitch.tv/rixordo/clip/CourageousBelovedIcecreamJonCarnage-CXcqH3hyWTvpIWjs) | 367 | 18s |
+| 6 | eliasn97 | [Kroko hat mich angefasst](https://www.twitch.tv/eliasn97/clip/PreciousFreezingFlamingoPastaThat-t71QGuvQ5tt6BJmi) | 365 | 21s |
+| 7 | rixordo | [Bester Fluchtfahrer Kappa](https://www.twitch.tv/rixordo/clip/VainGoldenBoarBatChest-K8zJcvoWs_wYkgzh) | 350 | 17s |
+| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schafft es in den Bunker](https://www.twitch.tv/montanablack88/clip/BoxyImpartialFiddleheadsPanicBasket-UVecwsCgf_E0tdBj) | 344 | 60s |
+| 9 | MontanaBlack88 ⚠️ nicht TikTok | [VAR](https://www.twitch.tv/montanablack88/clip/SparklyDelightfulSquidJKanStyle-j8wCWVRslWN2polD) | 343 | 6s |
+| 10 | rixordo | [CUT!! xD](https://www.twitch.tv/rixordo/clip/HeadstrongIncredulousLyrebirdDendiFace-eFcRIIWybLPij6ud) | 329 | 50s |
+| 11 | LesleyBunny | [🐰GTA 6 ZOCKEN🐰DAS ENDE VOM ERSTEN SUBATHON? (Tag 29) !subathon🐰!idealo !HOLY #we](https://www.twitch.tv/lesleybunny/clip/TalentedEagerLobsterDxAbomb-RnK8hYZ4GLwTrS7o) | 311 | 30s |
+| 12 | Gnu_Live | [GnuMo ⚔️Horror und GTA 6](https://www.twitch.tv/gnu_live/clip/BoredOpenSalsifyDuDudu-YgPyKl0V_4P4SMWb) | 254 | 30s |
+| 13 | LesleyBunny | [Subathon Ende](https://www.twitch.tv/lesleybunny/clip/NaiveExquisiteSkunkKappaWealth-yN85t6Orf9K4Hiz_) | 237 | 47s |
+| 14 | rixordo | [bro hat zu viel spaß haha](https://www.twitch.tv/rixordo/clip/FineRenownedMarrowRickroll-MaIwy1OdOuBenJoN) | 236 | 18s |
+| 15 | Repaz | [REICHT](https://www.twitch.tv/repaz/clip/SnappyEsteemedSowSquadGoals-s0pW4tLX19MjCZSi) | 222 | 44s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| zarbex | 19.082 | 🦩🌴 [DROPS] MR. GEIL STREAMT 🦩🌴 GTA 6 STORY BEENDEN? 🦩🌴 90% FERTIG 🦩🌴 I |
-| SidneyEweka | 2.583 | [DROPS] GTA VI WEITERSPIELEN (15% erst)🔴 !insta !esn !youtube |
-| H0llyLP | 1.737 | GTA 6 (PS5 PRO) - TAG 8 / !holy !holzkern !vod |
-| Gnu_Live | 1.474 | GnuMo ⚔️ GTA und danach von Bäumen brechen lassen |
-| Repaz | 1.331 | 🌴 EASTER EGGS MACHEN 🌴 STORY 89/100% 🌴 UNGLAUBLICHES GAME WOW 🌴 TAG 8  |
-| fustler | 984 | 8 Tag Fustler-Thon - GTA 6 Grind !fustlerthon !snocks !yfood !holy #we |
-| V1nKub | 665 | !DROPS AN✅ NEUE GTA 6 EASTER EGGS ABCHECKEN 👑 STORY AUF 100% 🔴 / !Prep |
-| sawlties | 549 | 🌴[!DROPS] GTA VI oder DATING SIM? hihi  / Kapitel 2 🔥/ *Werbung* |
-| dianaxanton | 539 | [73%] GTA 6 🌴 2 MILLIONEN GRIND! Schaffen wir das heute?! 🥷/ !pc logit |
-| DoktorFroid | 474 | Weiter geht's mit GTA VI! 🎮 Paul´s PlayGround 🎮 Alle Infos auf ➡️ dokt |
-| TORRO | 464 | 🏝️🦩🏝️ 𝗚̇𝗧̣𝗔 𝟲 𝗺𝗶𝘁 𝗗𝗟𝗦𝗦 𝟱 & 𝟭𝟮𝟬 𝗙𝗣𝗦 optimiert🏝️🦩🏝️ 𝑽𝕚𝕔𝕖 𝘾𝕚𝕥𝕪  〽️IᗩᗰI DR |
-| Radlerauge | 389 | 200h Platingrind beginnt! Das beste Spiel aller Zeiten. Drops ON auf d |
-| LillyTheChilly | 366 | Hallo, ich bin süchtig und wer bist du? :) Es geht weiter mit GTAAAAA  |
-| rewinside | 342 | ADHD MAXXING IN GTA VI (BAUSTELLEN AUF LOGIK PRÜFEN); Dann QuizShow mi |
-| Franzi | 330 | DROPS✅🌴 GTA VI HYPE! 🌴 /🕯️/ !koro !prepmymeal !holy #Werbung |
+| zarbex | 23.194 | 🦩🌴 [DROPS] MR. GEIL STREAMT 🦩🌴 GTA 6 STORY FINALE 🦩🌴 97% FERTIG 🦩🌴  !s |
+| H0llyLP | 2.844 | GTA 6 (PS5 PRO) - TAG 8 / !holy !holzkern !vod |
+| SidneyEweka | 2.190 | [DROPS] GTA VI WEITERSPIELEN (15% erst)🔴 !insta !esn !youtube |
+| JenNyan | 1.595 | 🌴 ALLES in GTA 6 erkunden! 🌴 ✅DROPS✅ |
+| Zombey | 1.438 | GTA 6 - Tag 8 (Chillig durchspielen, Kapitel 3) |
+| LPMassive | 1.377 | Erkunden, Easter Eggs & Lucia Solo Story! [120FPS DLSS5 - PS5 PRO] |
+| nooreax | 1.283 | 🚨 WIEDER DA 🚨 GTA MAIN STORY 50% 🚨 2,5 MONATE 24/7 LIVE 🚨 TAG 47 🚨 NOT |
+| Repaz | 1.172 | 🌴 EASTER EGGS MACHEN 🌴 STORY 89/100% 🌴 UNGLAUBLICHES GAME WOW 🌴 TAG 8  |
+| DirkNeuenfelsZwo | 1.018 | 🌆 VICE CITY SHOWDOWN - GTA VI EVENT 🌆 !EMP !Baum !Wolt !Winter !Shakes |
+| Fibii | 1.004 | 🔴GTA BINGO NIGHT MIT EUCH🔴DOMINOS GÖNNT🍕🔴!bingo !gameon !juuz !dominos |
+| fustler | 953 | 8 Tag Fustler-Thon - GTA 6 Grind !fustlerthon !snocks !yfood !holy #we |
+| Heideltraut | 891 | [DROPS] GTA 6 🌴 Heute nach Vice City!? !scuf !merch #werbung |
+| dieserkingphil | 784 | !DROPS ✅🚨DIE GTA 6 CONTENT KERNSCHMELZE [Story 51% bei 59h Spielzeit☠️ |
+| V1nKub | 638 | !DROPS AN✅ NEUE GTA 6 EASTER EGGS ABCHECKEN 👑 STORY AUF 100% 🔴 / !Prep |
+| dianaxanton | 589 | [73%] GTA 6 🌴 2 MILLIONEN GRIND! Schaffen wir das heute?! 🥷/ !pc logit |
 
 ## Story-Fortschritt laut Stream-Titel
 
 | Streamer | Fortschritt | Zuschauer |
 |---|---|---|
-| V1nKub | 100 % | 665 |
-| zarbex | 90 % | 19.082 |
-| Repaz | 89 % | 1.331 |
-| dianaxanton | 73 % | 539 |
-| SidneyEweka | 15 % | 2.583 |
+| V1nKub | 100 % | 638 |
+| zarbex | 97 % | 23.194 |
+| Repaz | 89 % | 1.172 |
+| Ranzratte | 82 % | 583 |
+| dianaxanton | 73 % | 589 |
+| dieserkingphil | 51 % | 784 |
+| nooreax | 50 % | 1.283 |
+| SidneyEweka | 15 % | 2.190 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| BauPenner | 5.377 | 3 | – | – |
-| rixordo | 2.053 | 9 | – | – |
-| MontanaBlack88 | 1.333 | 84 | – | – |
-| eliasn97 | 833 | 37 | – | – |
-| xRohat | 690 | 59 | – | – |
-| LesleyBunny | 628 | 4 | – | – |
-| Gnu_Live | 595 | 15 | 1.474 | 0,4 |
-| PietSmiet | 493 | 16 | – | – |
-| H0llyLP | 471 | 42 | 1.737 | 0,27 |
-| rewinside | 366 | 77 | 342 | 1,07 |
-| Rubaz | 315 | 6 | – | – |
-| zarbex | 272 | 71 | 19.082 | 0,01 |
-| SCHRADIN | 249 | 42 | – | – |
-| dieserkingphil | 227 | 41 | – | – |
-| Repaz | 223 | 8 | 1.331 | 0,17 |
+| BauPenner | 6.982 | 3 | – | – |
+| MontanaBlack88 | 3.324 | 85 | – | – |
+| rixordo | 2.092 | 9 | 60 | 34,87 |
+| eliasn97 | 892 | 38 | – | – |
+| xRohat | 807 | 70 | – | – |
+| LesleyBunny | 801 | 4 | – | – |
+| Gnu_Live | 680 | 15 | – | – |
+| dieserkingphil | 645 | 58 | 784 | 0,82 |
+| zarbex | 436 | 105 | 23.194 | 0,02 |
+| H0llyLP | 400 | 43 | 2.844 | 0,14 |
+| anaaja | 323 | 10 | – | – |
+| Repaz | 249 | 5 | 1.172 | 0,21 |
+| Heideltraut | 180 | 13 | 891 | 0,2 |
+| gerBrowny | 163 | 7 | 295 | 0,55 |
+| Zombey | 159 | 7 | 1.438 | 0,11 |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
