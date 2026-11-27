@@ -1,63 +1,63 @@
-# Clipgang Report – 27.11.2026 08:28 Uhr
+# Clipgang Report – 27.11.2026 11:15 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | MontanaBlack88 ⚠️ nicht TikTok | [Montes neues Aquarium](https://www.twitch.tv/montanablack88/clip/EntertainingEasyRadicchioBabyRage-ZdTNbfH1s-qfE8rj) | 1.846 | 60s |
-| 2 | BauPenner | [Damit hätte ich nicht gerechnet 😂😂](https://www.twitch.tv/baupenner/clip/IgnorantIgnorantCrocodileDAESuppy-Yjlca7aICOp8LGc4) | 1.304 | 11s |
-| 3 | BauPenner | [Tiger VS BauPenner 😂😂](https://www.twitch.tv/baupenner/clip/AbstemiousFancyLouseTheTarFu-ecioQqpde-75WJrU) | 1.239 | 18s |
-| 4 | BauPenner | [GTA zerstört mein Leben 😂😂](https://www.twitch.tv/baupenner/clip/SmilingComfortableAnteaterYouWHY-NtVMYjxnfep_D6gt) | 1.124 | 14s |
-| 5 | MontanaBlack88 ⚠️ nicht TikTok | [aquarium](https://www.twitch.tv/montanablack88/clip/SoftTangentialJamBigBrother-K6K9h5--DHSaa-P-) | 770 | 60s |
-| 6 | zarbex | [Mr. Geil am Kochen](https://www.twitch.tv/zarbex/clip/CoweringBashfulBibimbapOSfrog-9EYBXRhspMhRRqVg) | 594 | 10s |
-| 7 | MontanaBlack88 ⚠️ nicht TikTok | [realtalk doppelmoral fische](https://www.twitch.tv/montanablack88/clip/TransparentAdorableEyeballKeyboardCat-jJzETHpL70K8YNeG) | 476 | 60s |
-| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schafft es in den Bunker](https://www.twitch.tv/montanablack88/clip/BoxyImpartialFiddleheadsPanicBasket-UVecwsCgf_E0tdBj) | 441 | 60s |
-| 9 | MontanaBlack88 ⚠️ nicht TikTok | [VAR](https://www.twitch.tv/montanablack88/clip/SparklyDelightfulSquidJKanStyle-j8wCWVRslWN2polD) | 439 | 6s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [Monte Raiders Fan?](https://www.twitch.tv/montanablack88/clip/TameArtisticDadKeyboardCat-9aW2PNZlgDTEu_8g) | 389 | 60s |
-| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Manche Leute verstehen den Humor nicht](https://www.twitch.tv/montanablack88/clip/LivelyAbstruseLasagnaNerfRedBlaster-E1GLJ8IGSboZmu6j) | 350 | 52s |
-| 12 | MontanaBlack88 ⚠️ nicht TikTok | [realtalk wegen ragebait clip](https://www.twitch.tv/montanablack88/clip/SlickHelpfulLouseHoneyBadger-e-FQBD6fCXM5ZdoK) | 301 | 60s |
-| 13 | rixordo | [Ich heb ab.....](https://www.twitch.tv/rixordo/clip/KathishSucculentFlyTBTacoLeft-6MxX0GRPQr0VBQZk) | 258 | 15s |
-| 14 | MontanaBlack88 ⚠️ nicht TikTok | [füße lecken](https://www.twitch.tv/montanablack88/clip/CorrectJollyLettuceBIRB-IejiJdvHlkYZUfXZ) | 244 | 60s |
-| 15 | Zombey | [no worries](https://www.twitch.tv/zombey/clip/DeafManlyFalconHeyGirl-rvn0jj6UUWTbQxHR) | 222 | 10s |
+| 1 | BauPenner | [Damit hätte ich nicht gerechnet 😂😂](https://www.twitch.tv/baupenner/clip/IgnorantIgnorantCrocodileDAESuppy-Yjlca7aICOp8LGc4) | 1.461 | 11s |
+| 2 | BauPenner | [Tiger VS BauPenner 😂😂](https://www.twitch.tv/baupenner/clip/AbstemiousFancyLouseTheTarFu-ecioQqpde-75WJrU) | 1.305 | 18s |
+| 3 | BauPenner | [GTA zerstört mein Leben 😂😂](https://www.twitch.tv/baupenner/clip/SmilingComfortableAnteaterYouWHY-NtVMYjxnfep_D6gt) | 1.151 | 14s |
+| 4 | zarbex | [Mr. Geil am Kochen](https://www.twitch.tv/zarbex/clip/CoweringBashfulBibimbapOSfrog-9EYBXRhspMhRRqVg) | 699 | 10s |
+| 5 | MontanaBlack88 ⚠️ nicht TikTok | [Monte schafft es in den Bunker](https://www.twitch.tv/montanablack88/clip/BoxyImpartialFiddleheadsPanicBasket-UVecwsCgf_E0tdBj) | 458 | 60s |
+| 6 | MontanaBlack88 ⚠️ nicht TikTok | [VAR](https://www.twitch.tv/montanablack88/clip/SparklyDelightfulSquidJKanStyle-j8wCWVRslWN2polD) | 450 | 6s |
+| 7 | rixordo | [Ich heb ab.....](https://www.twitch.tv/rixordo/clip/KathishSucculentFlyTBTacoLeft-6MxX0GRPQr0VBQZk) | 260 | 15s |
+| 8 | Zombey | [no worries](https://www.twitch.tv/zombey/clip/DeafManlyFalconHeyGirl-rvn0jj6UUWTbQxHR) | 242 | 10s |
+| 9 | zarbex | [GTA6 Wallenhorst CrashOut](https://www.twitch.tv/zarbex/clip/SincereDoubtfulHumanStinkyCheese-FTxfLCw8Vf-ZnaUO) | 231 | 50s |
+| 10 | Gnu_Live | [Knuddel](https://www.twitch.tv/gnu_live/clip/TangentialVastDadTBTacoLeft-I4PVNyGKX0y-6oA5) | 209 | 60s |
+| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Chat trollt Monte](https://www.twitch.tv/montanablack88/clip/PreciousTubularElephantPanicVis-GwJU6-5WhOy5sEA5) | 175 | 42s |
+| 12 | MontanaBlack88 ⚠️ nicht TikTok | [Wasserladen?](https://www.twitch.tv/montanablack88/clip/GoldenCleverCarrotSwiftRage-4n162junZK7xNpjO) | 169 | 60s |
+| 13 | Giggand | [-Aura](https://www.twitch.tv/giggand/clip/SnappyFreezingTroutPoooound-lwntDMDoHR5TsT2M) | 157 | 48s |
+| 14 | gerBrowny | [Nun....](https://www.twitch.tv/gerbrowny/clip/ArbitraryRelentlessAardvarkDerp-sTWWYS23sRfHUVAk) | 128 | 30s |
+| 15 | zarbex | [raubt er jetzt in irl eine bank aus](https://www.twitch.tv/zarbex/clip/WealthyPreciousJackalOpieOP-wgJdSEheQs9KWymm) | 106 | 30s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| nooreax | 491 | 🚨 NACHTSCHICHT 🚨 GTA VI FINALE 🚨 2,5 MONATE 24/7 LIVE 🚨 TAG 48 🚨 NOTY  |
-| budibros | 316 | 1.Person GTA, Glitches, die bald gepatched werden, permanent stat boos |
-| F3nixStream | 298 | [✅!DROPS] GTA6 / 💵 schnellstes Geld ohne Glitch 💵 🌪️!Hurrikan / !Holy  |
-| xNikGo | 257 | ✅DROPS🚨Wir Rauben Die Größte Bank Aus 🚨 !holy |
-| sweetlou2022 | 247 | [DROPS] Kapitel 3 !YT !DC |
-| Larsi | 238 | 🐊 GTA 6 komplett BLIND ➡️ !spiel / 5% PrepMyMeal !pmm / Instant-Gaming |
-| Viernulla | 222 | Welcome to the Vice City Heat ⭐GTA 6⭐ #7🔞▶️!dc ▶️!gportal |
-| lenimaria | 147 | 🖤 [DROPS] GTA VI HYPERS 🤍 !insta !s !holy !scuf !vilgain 🖤 |
-| VolkanEsmer | 122 | [!90FPS] [DLSS5] [DROPS]🌴ULTRA REALISTIC GRAPICS 🌴!AIM |
-| ZOKKA | 121 | ★★★★★★ POW! POW! |
-| Dimeax | 118 | 🚨 URUTOX GTA VI NACHTSCHICHT 🚨 NOTY WG MIT @NORMAN @URUTOX UND @NOOREA |
-| FhexyTV | 116 | 🔴 Euer Kanal für 24/7 #GTA VI   Channel  🔴 Hauptkanal --> @Fhexy |
-| Hachiko | 96 | 🦩 /  UNDERHATED STREAMER ➡️ !minecraft  !gamivo !nyfter |
-| bezo676 | 74 | GTA 6 Live aus dem Kiez / !spenden #Werbung |
-| Urutox | 69 | 💚 Urutox kommt ca. 1 Uhr 💚 heute FINALE 99% Story fertig 💚 GTA VI 💚 2, |
+| MontanaBlack88 | 13.909 | [DROPS] GTA6 NACH 13 JAHREN STORY & EASTER EGGS / GTA6 DROPS AKTIV !dr |
+| fustler | 1.004 | 9 Tag Fustler-Thon - GTA 6 Grind danach Work with me !fustlerthon !sno |
+| DieHahn | 482 | EASTER EGGS grinden! !ENEBA #Werbung |
+| lenimaria | 481 | 🖤 [DROPS] GTA VI HYPERS 🤍 !insta !s !holy !scuf !vilgain 🖤 |
+| Larsi | 463 | 🐊 GTA 6 komplett BLIND ➡️ !spiel / 5% PrepMyMeal !pmm / Instant-Gaming |
+| LOONEY | 416 | www.luckylooney.com |
+| Meloonie | 291 | [DROPS] Heute ist wieder Freitag!! !dvag !instick |
+| Sebo | 275 | ✅ GTA6 HYPEROOM - 62% Story - 90h Spielzeit #11 ✅   /  !GPORTAL / !hol |
+| xNikGo | 272 | ✅DROPS🚨35% Auf SUBS! Wir Rauben Die Größte Bank Aus 🚨 !holy |
+| Dili | 206 | WOCHENENDÖÖÖÖÖ🌴GTA 6 [Tag 5] ❗DROPS❗ |
+| F3nixStream | 180 | [✅!DROPS] GTA6 / 💵 schnellstes Geld ohne Glitch 💵 🌪️!Hurrikan / !Holy  |
+| guirlyyy | 176 | [DROPS AKTIV] 🌴STREAM OHNE WERBUNG! / über 110h+ ingamezime / Heute wi |
+| ScarFace_onfire | 154 | Guten Morgen, Vice City is calling. Es geht weiter mit kapitel 3 |
+| hotwowa | 147 | STREAM BIS ICH STERBE |
+| Hasi | 144 | !drops ✅️ 5 / 55 Trophäen- PS 5 Pro |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| MontanaBlack88 | 9.118 | 90 | – | – |
-| BauPenner | 3.667 | 3 | – | – |
-| zarbex | 1.625 | 133 | – | – |
-| NiklasWilson | 611 | 30 | – | – |
-| Zombey | 260 | 10 | – | – |
-| rixordo | 258 | 1 | – | – |
-| Gnu_Live | 205 | 7 | – | – |
-| gerBrowny | 198 | 5 | – | – |
-| Heideltraut | 137 | 12 | – | – |
-| Giggand | 131 | 6 | – | – |
-| xRohat | 122 | 12 | – | – |
+| BauPenner | 3.917 | 3 | 10 | 391,7 |
+| MontanaBlack88 | 1.921 | 73 | 13.909 | 0,14 |
+| zarbex | 1.819 | 136 | – | – |
+| Zombey | 280 | 10 | – | – |
+| rixordo | 260 | 1 | – | – |
+| Gnu_Live | 230 | 7 | – | – |
+| gerBrowny | 199 | 5 | – | – |
+| Heideltraut | 197 | 12 | – | – |
+| Repaz | 193 | 3 | – | – |
+| Giggand | 169 | 6 | – | – |
+| xRohat | 144 | 12 | – | – |
+| sawlties | 111 | 4 | – | – |
 | dieserkingphil | 109 | 40 | – | – |
 | SidneyEweka | 108 | 17 | – | – |
-| sawlties | 102 | 4 | – | – |
-| Repaz | 91 | 3 | – | – |
+| H0llyLP | 105 | 23 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
