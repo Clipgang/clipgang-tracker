@@ -1,70 +1,71 @@
-# Clipgang Report – 27.11.2026 20:04 Uhr
+# Clipgang Report – 27.11.2026 23:02 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | BauPenner | [Damit hätte ich nicht gerechnet 😂😂](https://www.twitch.tv/baupenner/clip/IgnorantIgnorantCrocodileDAESuppy-Yjlca7aICOp8LGc4) | 2.761 | 11s |
-| 2 | BauPenner | [Tiger VS BauPenner 😂😂](https://www.twitch.tv/baupenner/clip/AbstemiousFancyLouseTheTarFu-ecioQqpde-75WJrU) | 1.704 | 18s |
-| 3 | BauPenner | [GTA zerstört mein Leben 😂😂](https://www.twitch.tv/baupenner/clip/SmilingComfortableAnteaterYouWHY-NtVMYjxnfep_D6gt) | 1.388 | 14s |
-| 4 | MontanaBlack88 ⚠️ nicht TikTok | [fy](https://www.twitch.tv/montanablack88/clip/BoxyBigLyrebirdOSsloth-FQ7YPRCR1eC-rqdV) | 552 | 60s |
-| 5 | XxREBELLIOxX | [Auuutsch! - GTA6](https://www.twitch.tv/xxrebellioxx/clip/CrispyFrozenOkapiPRChase-fOyySv-Ysg9adGl8) | 369 | 20s |
-| 6 | Giggand | [-Aura](https://www.twitch.tv/giggand/clip/SnappyFreezingTroutPoooound-lwntDMDoHR5TsT2M) | 367 | 48s |
-| 7 | Zombey | [no worries](https://www.twitch.tv/zombey/clip/DeafManlyFalconHeyGirl-rvn0jj6UUWTbQxHR) | 325 | 10s |
-| 8 | MontanaBlack88 ⚠️ nicht TikTok | [Polizist ist in Loop gefangen](https://www.twitch.tv/montanablack88/clip/HandsomePhilanthropicSageMingLee-KYYvNZ3ilCXE-7kD) | 296 | 60s |
-| 9 | rixordo | [Ich heb ab.....](https://www.twitch.tv/rixordo/clip/KathishSucculentFlyTBTacoLeft-6MxX0GRPQr0VBQZk) | 292 | 15s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [monte seine for you page](https://www.twitch.tv/montanablack88/clip/TacitTriangularEagleKlappa-Dlo4djhVB1fx7C2j) | 246 | 60s |
-| 11 | MontanaBlack88 ⚠️ nicht TikTok | [Monte wird schwindelig beim vorlesen](https://www.twitch.tv/montanablack88/clip/AmazingModernMilkSaltBae-ioE1d76GP_tPb8l6) | 186 | 40s |
-| 12 | zarbex | [Beste Sequenz ever! GTA VI Finale](https://www.twitch.tv/zarbex/clip/TubularMoistEndiveAMPEnergyCherry-8T0qCttX3YhNYLdH) | 112 | 47s |
-| 13 | Rotpilz | [Rennen verkackt kurz vor ziel](https://www.twitch.tv/rotpilz/clip/OddGeniusVultureFreakinStinkin-HuJOD1K8VHFNxBeS) | 101 | 53s |
-| 14 | Exsl95 | [Er tut mir schon ein bissschen leid... xD](https://www.twitch.tv/exsl95/clip/SnappyCrunchyLionKippa-GOXuf68c6C6mzL9p) | 83 | 60s |
-| 15 | H0llyLP | [holly der wurfkiller](https://www.twitch.tv/h0llylp/clip/CleanKawaiiDumplingsFloof-yJ0rVPt3wYAwf24h) | 79 | 18s |
+| 1 | MontanaBlack88 ⚠️ nicht TikTok | [fy](https://www.twitch.tv/montanablack88/clip/BoxyBigLyrebirdOSsloth-FQ7YPRCR1eC-rqdV) | 1.096 | 60s |
+| 2 | Giggand | [-Aura](https://www.twitch.tv/giggand/clip/SnappyFreezingTroutPoooound-lwntDMDoHR5TsT2M) | 444 | 48s |
+| 3 | XxREBELLIOxX | [Auuutsch! - GTA6](https://www.twitch.tv/xxrebellioxx/clip/CrispyFrozenOkapiPRChase-fOyySv-Ysg9adGl8) | 393 | 20s |
+| 4 | MontanaBlack88 ⚠️ nicht TikTok | [Polizist ist in Loop gefangen](https://www.twitch.tv/montanablack88/clip/HandsomePhilanthropicSageMingLee-KYYvNZ3ilCXE-7kD) | 383 | 60s |
+| 5 | MontanaBlack88 ⚠️ nicht TikTok | [Monte wird schwindelig beim vorlesen](https://www.twitch.tv/montanablack88/clip/AmazingModernMilkSaltBae-ioE1d76GP_tPb8l6) | 369 | 40s |
+| 6 | MontanaBlack88 ⚠️ nicht TikTok | [monte seine for you page](https://www.twitch.tv/montanablack88/clip/TacitTriangularEagleKlappa-Dlo4djhVB1fx7C2j) | 246 | 60s |
+| 7 | MontanaBlack88 ⚠️ nicht TikTok | [Komplettes Chaos](https://www.twitch.tv/montanablack88/clip/OilyAcceptableQuailPoooound-DzezwGrQZYa6kebp) | 101 | 60s |
+| 8 | Exsl95 | [Er tut mir schon ein bissschen leid... xD](https://www.twitch.tv/exsl95/clip/SnappyCrunchyLionKippa-GOXuf68c6C6mzL9p) | 96 | 60s |
+| 9 | Franzi | [Wie ist das passiert?](https://www.twitch.tv/franzi/clip/BeautifulSillyChoughKappaRoss-iMf3EXrq1oXDImcD) | 90 | 23s |
+| 10 | Gnu_Live | [hase 1](https://www.twitch.tv/gnu_live/clip/ProudBlightedDogeTakeNRG-low8FiaJEuM2bY0F) | 89 | 60s |
+| 11 | Neskanell | [Nur ein Kratzer](https://www.twitch.tv/neskanell/clip/RelentlessModernSoymilkSoBayed-u2EdPJlmEWMOyphM) | 86 | 60s |
+| 12 | ShoXx__ | [[DROPS][60FPS]💥GTA VI [60%] Chapter 4💥  !holy !grover  #Werbung](https://www.twitch.tv/shoxx__/clip/GeniusBlitheLettuceNotATK-S77Hcihg-YVq5U1B) | 85 | 30s |
+| 13 | Bonjwa | [New Sub Alert](https://www.twitch.tv/bonjwa/clip/ColdbloodedHotNoodleMrDestructoid-wXEl-3VfS9jV1cMe) | 84 | 8s |
+| 14 | Heideltraut | [Die Wahrheit ist da draußen](https://www.twitch.tv/heideltraut/clip/IronicSavageInternOhMyDog-T30SPONJWegGFNUt) | 83 | 60s |
+| 15 | MontanaBlack88 ⚠️ nicht TikTok | [random npc erschossen](https://www.twitch.tv/montanablack88/clip/MuddyObeseCurlewRickroll-b2GrHWig9PNXWyvn) | 71 | 60s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| Bonjwa | 2.847 | Gönn dir etwas! Schaue GTA 6 bei Aster! |
-| H0llyLP | 2.602 | Wir starten heute Kapitel 4! ~ GTA 6 (PS5 PRO) - TAG 9 / !holy !holzke |
-| Repaz | 1.807 | 🌴 STORY FINALE 93/100% 🌴 EASTER EGGS MACHEN 🌴  UNGLAUBLICHES GAME WOW  |
-| LPMassive | 1.526 | Erkunden, Easter Eggs & Lucia Solo Story! [120FPS DLSS5 - PS5 PRO] |
-| VasSilly | 1.130 | 🔴Die Sucht🔴 / #werbung: !kola !prep !emma |
-| fustler | 987 | 9 Tag Fustler-Thon - GTA 6 Grind danach Work with me !fustlerthon !sno |
-| LesleyBunny | 945 | 🐰ERSTER STREAM NACH SUBATHON🐰GTA VI🐰!HOLY !allianz #werbung🐰 |
-| dieserkingphil | 798 | !DROPS ✅🚨 JEDES RENNEN GEWINNEN IN GTA 6 [Story 51% bei 64h Spielzeit☠ |
-| sarahtoninx9 | 741 | 🟨erstes mal gta 6🟨 tag 3? 4? 5? 6? 7? 8? time eludes me !grover !elusa |
-| Radlerauge | 522 | 200h Platingrind! Das beste Spiel aller Zeiten. Drops ON auf der PS PR |
-| CSYON | 519 | ICH BRECHE IN HÄUSER EIN! - GTA 6 Story |
-| Emmo | 510 | DISPLAY Opening OMG 12H CHAOS JAAAA 💫 !ytp !insta 🤍!ahead !naturtreu ! |
-| MrsSparkk | 502 | GTA VI Interaktiv, IHR könnt mir !MISSIONEN geben!🦩🌴🔥!corsair !holy !s |
-| D1rtyD3vil | 461 | [Ps5] c.a 60% Story / Wenn man den Feministen Part weglässt, ist das G |
-| KELRE0N | 449 | Rein ins Wochenende / !lvm !codes |
+| Bonjwa | 3.527 | Gönn dir etwas! Schaue GTA 6 bei Aster! |
+| H0llyLP | 2.440 | Wir starten heute Kapitel 4! ~ GTA 6 (PS5 PRO) - TAG 9 / !holy !holzke |
+| Repaz | 2.284 | 🌴 STORY FINALE 93/100% 🌴 EASTER EGGS MACHEN 🌴  UNGLAUBLICHES GAME WOW  |
+| LPMassive | 1.767 | Erkunden, Easter Eggs & Lucia Solo Story! [120FPS DLSS5 - PS5 PRO] |
+| sarahtoninx9 | 756 | 🟨erstes mal gta 6🟨 tag 3? 4? 5? 6? 7? 8? time eludes me !grover !elusa |
+| DieHahn | 626 | EASTER EGGS grinden! !ENEBA #Werbung |
+| kutcherlol | 623 | !holzkern über meinen Link 20% Rabatt / ganz entspannt gta weiter zock |
+| DimelooV | 584 | 🚨 GTA 6 / Storymodus 52% 🔥 |
+| CSYON | 484 | ICH BRECHE IN HÄUSER EIN! - GTA 6 Story |
+| KELRE0N | 447 | Rein ins Wochenende / !lvm !codes |
+| gerBrowny | 419 | [PS5 PRO/DROPS] Echter Fan! Hype is Real :D 8. Tag / 2791/9000 / !wolt |
+| WhiteyDude | 408 | Vice City 60 FPS Zerberstung, oida!! / !7tv / !pc / !tts / !insta |
+| eltheodoro0 | 380 | 🚨GTA ABER TOT=SHOT !dc !insta !yt !socials |
+| Kamikatze | 374 | [DROPS] GTA 6 HYPE - 60 FPS |
+| AkhundKrachTV | 357 | Akh & Krach auf mission / GTA VI / 91% abgeschlossen  !merch !vol2 !st |
 
 ## Story-Fortschritt laut Stream-Titel
 
 | Streamer | Fortschritt | Zuschauer |
 |---|---|---|
-| Repaz | 93 % | 1.807 |
-| dieserkingphil | 51 % | 798 |
+| Repaz | 93 % | 2.284 |
+| DimelooV | 52 % | 584 |
+| kutcherlol | 20 % | 623 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| BauPenner | 5.853 | 3 | – | – |
-| MontanaBlack88 | 1.695 | 62 | – | – |
-| Zombey | 419 | 10 | – | – |
-| Giggand | 379 | 6 | – | – |
-| XxREBELLIOxX | 369 | 1 | – | – |
-| Heideltraut | 316 | 10 | – | – |
-| dieserkingphil | 301 | 44 | 798 | 0,38 |
-| rixordo | 292 | 1 | 85 | 3,44 |
-| zarbex | 278 | 52 | – | – |
-| H0llyLP | 171 | 30 | 2.602 | 0,07 |
-| AkhundKrachTV | 166 | 38 | 178 | 0,93 |
-| Rotpilz | 156 | 2 | – | – |
-| Gnu_Live | 130 | 2 | – | – |
-| LPMassive | 128 | 8 | 1.526 | 0,08 |
-| maxiliecuy | 113 | 4 | 289 | 0,39 |
+| MontanaBlack88 | 2.781 | 63 | – | – |
+| Giggand | 498 | 6 | – | – |
+| XxREBELLIOxX | 393 | 1 | – | – |
+| Gnu_Live | 153 | 2 | – | – |
+| Heideltraut | 131 | 3 | – | – |
+| Bonjwa | 128 | 20 | 3.527 | 0,04 |
+| Rotpilz | 116 | 2 | – | – |
+| WhiteyDude | 114 | 8 | 408 | 0,28 |
+| AkhundKrachTV | 103 | 36 | 357 | 0,29 |
+| DieHahn | 102 | 9 | 626 | 0,16 |
+| Exsl95 | 96 | 1 | – | – |
+| KNK_WORLD | 91 | 2 | – | – |
+| Franzi | 90 | 1 | – | – |
+| Neskanell | 86 | 1 | – | – |
+| ShoXx__ | 85 | 1 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
