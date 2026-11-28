@@ -1,63 +1,69 @@
-# Clipgang Report – 28.11.2026 10:57 Uhr
+# Clipgang Report – 28.11.2026 14:05 Uhr
 
 ## Top-Clips der letzten 24 Stunden
 
 | # | Streamer | Clip | Views | Länge |
 |---|---|---|---|---|
-| 1 | XxREBELLIOxX | [Auuutsch! - GTA6](https://www.twitch.tv/xxrebellioxx/clip/CrispyFrozenOkapiPRChase-fOyySv-Ysg9adGl8) | 525 | 20s |
-| 2 | Bonjwa | [New Sub Alert](https://www.twitch.tv/bonjwa/clip/ColdbloodedHotNoodleMrDestructoid-wXEl-3VfS9jV1cMe) | 308 | 8s |
-| 3 | Elquaria | [💫 50% Story / DIE NACHTWACHE 💫 LATENIGHT STREAM !insta !yt](https://www.twitch.tv/elquaria/clip/JoyousTemperedRingRitzMitz-MYOVsEVrWQjcLkcm) | 143 | 30s |
-| 4 | MontanaBlack88 ⚠️ nicht TikTok | [schradin call](https://www.twitch.tv/montanablack88/clip/HandsomeHumbleMousePeteZarollTie-crhFWoqhNX2_NZlN) | 143 | 60s |
-| 5 | LesleyBunny | [schuhladen](https://www.twitch.tv/lesleybunny/clip/ManlyUgliestOysterCharlieBitMe-8sKGI4eVmPBjVm6k) | 139 | 60s |
-| 6 | Exsl95 | [Er tut mir schon ein bissschen leid... xD](https://www.twitch.tv/exsl95/clip/SnappyCrunchyLionKippa-GOXuf68c6C6mzL9p) | 132 | 60s |
-| 7 | MontanaBlack88 ⚠️ nicht TikTok | [clean](https://www.twitch.tv/montanablack88/clip/FlirtyBoringOctopusGingerPower-6DshGqRbh3udM_nB) | 130 | 60s |
-| 8 | MontanaBlack88 ⚠️ nicht TikTok | [schradin call 2](https://www.twitch.tv/montanablack88/clip/ModernLitigiousRhinocerosCharlieBitMe-TjeZEnA2UZnQaP5m) | 129 | 60s |
-| 9 | MontanaBlack88 ⚠️ nicht TikTok | [schrad](https://www.twitch.tv/montanablack88/clip/FragileFantasticPistachioTheTarFu-CJEjEfr_En8oA-vk) | 126 | 60s |
-| 10 | MontanaBlack88 ⚠️ nicht TikTok | [100 naschis challenge für schradin](https://www.twitch.tv/montanablack88/clip/SlipperyCrunchyYakinikuKreygasm-2fZ7VQ3OdeqMvBp2) | 121 | 60s |
-| 11 | Franzi | [Wie ist das passiert?](https://www.twitch.tv/franzi/clip/BeautifulSillyChoughKappaRoss-iMf3EXrq1oXDImcD) | 120 | 23s |
-| 12 | Repaz | [Dem Bro gehts gar nicht gut](https://www.twitch.tv/repaz/clip/VainResoluteWerewolfThunBeast-nP7FSRoR9RrsadGS) | 116 | 60s |
-| 13 | Sebo | [Er macht den leckersten Teig](https://www.twitch.tv/sebo/clip/EncouragingStrangeJaguarStoneLightning-VR_d_OARCZWa9Xrg) | 109 | 24s |
-| 14 | mertabimula | [OPA VERKACKT ÜBERFALL](https://www.twitch.tv/mertabimula/clip/DistinctObedientAlmondOSfrog-SvFZLprAh1Bu_RKQ) | 106 | 30s |
-| 15 | NiklasWilson | [1](https://www.twitch.tv/niklaswilson/clip/GlamorousViscousNikudonHeyGirl-yDNGl8AFNf1lR3aD) | 104 | 30s |
+| 1 | BauPenner | [Penna kann kein Motorrad fahren](https://www.twitch.tv/baupenner/clip/HonorableBetterHyenaCoolCat-0huC8vd99nHWdGmF) | 1.385 | 18s |
+| 2 | Bonjwa | [New Sub Alert](https://www.twitch.tv/bonjwa/clip/ColdbloodedHotNoodleMrDestructoid-wXEl-3VfS9jV1cMe) | 419 | 8s |
+| 3 | Elquaria | [💫 50% Story / DIE NACHTWACHE 💫 LATENIGHT STREAM !insta !yt](https://www.twitch.tv/elquaria/clip/JoyousTemperedRingRitzMitz-MYOVsEVrWQjcLkcm) | 218 | 30s |
+| 4 | mertabimula | [OPA VERKACKT ÜBERFALL](https://www.twitch.tv/mertabimula/clip/DistinctObedientAlmondOSfrog-SvFZLprAh1Bu_RKQ) | 191 | 30s |
+| 5 | NiklasWilson | [1](https://www.twitch.tv/niklaswilson/clip/GlamorousViscousNikudonHeyGirl-yDNGl8AFNf1lR3aD) | 177 | 30s |
+| 6 | LesleyBunny | [schuhladen](https://www.twitch.tv/lesleybunny/clip/ManlyUgliestOysterCharlieBitMe-8sKGI4eVmPBjVm6k) | 177 | 60s |
+| 7 | Repaz | [Dem Bro gehts gar nicht gut](https://www.twitch.tv/repaz/clip/VainResoluteWerewolfThunBeast-nP7FSRoR9RrsadGS) | 166 | 60s |
+| 8 | Franzi | [Wie ist das passiert?](https://www.twitch.tv/franzi/clip/BeautifulSillyChoughKappaRoss-iMf3EXrq1oXDImcD) | 127 | 23s |
+| 9 | MontanaBlack88 ⚠️ nicht TikTok | [Uii Memooooo](https://www.twitch.tv/montanablack88/clip/AcceptableCleverDugongCoolStoryBro-AeVvj-N9iuZrnmkF) | 116 | 24s |
+| 10 | dieserkingphil | [WAS WAR DAS DENN?](https://www.twitch.tv/dieserkingphil/clip/HedonisticUgliestKimchiANELE-2evGQZ4hxMXvKDNP) | 110 | 30s |
+| 11 | NiklasWilson | [1](https://www.twitch.tv/niklaswilson/clip/GentleFuriousCobblerCmonBruh-dixzTcZ-iano_m7g) | 96 | 30s |
+| 12 | Elquaria | [💫 50% Story / DIE NACHTWACHE 💫 LATENIGHT STREAM !insta !yt](https://www.twitch.tv/elquaria/clip/RefinedRespectfulQuailEagleEye-yEreK5hRUXBxDD5S) | 85 | 30s |
+| 13 | elton_zockt | [Drück mal Dreieck Prank](https://www.twitch.tv/elton_zockt/clip/ShyFineMangetoutBIRB-OsznIu3Nw5YooyWO) | 80 | 48s |
+| 14 | H0llyLP | [alle guten dinge sind 3](https://www.twitch.tv/h0llylp/clip/KindPrettiestSharkWow-P8gZ6rHvaw3suH1X) | 74 | 21s |
+| 15 | Elquaria | [💫 50% Story / DIE NACHTWACHE 💫 LATENIGHT STREAM !insta !yt](https://www.twitch.tv/elquaria/clip/FreezingCuriousPicklesLitty-Oqbrh_gAb6N_Pugx) | 63 | 30s |
 
 ## Gerade live (GTA 6, deutsch)
 
 | Streamer | Zuschauer | Titel |
 |---|---|---|
-| lenimaria | 623 | 🖤 [DROPS] Kurzer GTA VI Stream weil süchtig HYPERS 🤍 !insta !s !holy ! |
-| Dili | 457 | Bekomme ich heute endlich mal mein Auto??🌴 [Tag 6] ❗DROPS❗ |
-| ProErsiin | 340 | [DROPS AN] Platin Grind! 🌴Story 100%🌴 / !Ausbildung / !Tipsy !Sound !Y |
-| Meloonie | 327 | [DROPS] Melcia ist wieder unterwegs !instick |
-| Mossinossi | 320 | GrandTheftAuto 6 by Mossinossi |
-| Hasi | 254 | !drops ✅️ 6 / 55 Trophäen- PS 5 Pro |
-| stahlsebbl | 241 | Feinste Drops🔥GUTE LAUNE Sonntag Teil 1 / Kränkelsebbl🔥Morgen Zuschaue |
-| Viernulla | 214 | Welcome to the Vice City Heat ⭐GTA 6⭐ #8🔞▶️!dc ▶️!gportal |
-| guirlyyy | 192 | 🌴STREAM OHNE WERBUNG! / 120h+ Spielstunden / Süchtig nach LUCIA! 🌴🚗 |
-| ShugaKitty | 158 | [DROPS] GTA 60 FPS 💫 //  !motorrad !rocketgames !gta |
-| FloydSchov | 129 | 🔥 120 !FPS + REAL LIFE GRAFIK 🔥 / !VPN !holy !prep !aim #werbung |
-| HerrBergmann__TV | 122 | 🌴☀️ GTA 6 RELEASE WOCHE ☀️🌴 TAG 4 🌴 [24/7 Herr Bergmann Rerun] |
-| TrAxMaX81 | 112 | und wieder die 4. ...ES geht weiter.... / TRAXMAX81 / MAXIKLEIN81 |
-| ZOKKA | 109 | ★★★★★★ |
-| FhexyTV | 109 | 🔴 Euer Kanal für 24/7 #GTA VI   Channel  🔴 Hauptkanal --> @Fhexy |
+| Dhalucard | 2.527 | [GER 18+] 🔥 FRIENDLY FIRE CHARITY STREAM 🔥 // GTA VI & SHARK MART // A |
+| MasterTay | 1.305 | 🌴62H MEGASTREAM 🔥 / 3 TAGE – 1 STREAM / 42H ACTION [Unity-Life.de]🔸!se |
+| H0llyLP | 1.227 | GTA 6 (PS5 PRO) - TAG 10 (Kapitel 4/5)/ !holy !holzkern !vod |
+| Dili | 610 | Bekomme ich heute endlich mal mein Auto??🌴 [Tag 6] ❗DROPS❗ |
+| DimelooV | 587 | 🚨 GTA 6 / Storymodus 59% 🔥 |
+| ProErsiin | 420 | [DROPS AN] Platin Grind! 🌴Story 100%🌴 / !Ausbildung / !Tipsy !Sound !Y |
+| Aimbrot | 357 | DROPS✅💯 35% auf SUBS🏆 Wir suchen LEGENDÄRE WAFFEN! [MAX FPS 1440p] |
+| stahlsebbl | 335 | Feinste Drops🔥GUTE LAUNE Sonntag Teil 1 / Kränkelsebbl🔥Morgen Zuschaue |
+| Meloonie | 330 | [DROPS] Melcia ist wieder unterwegs !instick |
+| HeyStan | 313 | [DROPS AKTIV ✅] Tag 10 EasterEggs suchen - 90% Kapitel 4 - PS5 Pro / 🏆 |
+| Mossinossi | 311 | GrandTheftAuto 6 by Mossinossi |
+| maxiliecuy | 304 | 💫 [34% STORY [!badge]] GTA6 weiterspielen!⭐ !insta !tiktok !prepmymeal |
+| DIBONIDAS | 255 | ORCA EASTER EGG / KAPITEL 4 / 89% / GTA6 SUBATHON / TAG 10 |
+| Larsi | 242 | 🐊 GTA 6 komplett BLIND ➡️ !spiel / 5% PrepMyMeal !pmm / Instant-Gaming |
+| xHankyy | 193 | [DROPS✅] / 50% STORY / BLACK WEEK BEI !NYFTER  !snocks |
+
+## Story-Fortschritt laut Stream-Titel
+
+| Streamer | Fortschritt | Zuschauer |
+|---|---|---|
+| DimelooV | 59 % | 587 |
 
 ## Streamer-Ranking nach Clip-Views
 
 | Streamer | Clip-Views 24h | Clips | Live-Zuschauer | Views pro Zuschauer |
 |---|---|---|---|---|
-| MontanaBlack88 | 891 | 54 | – | – |
-| XxREBELLIOxX | 525 | 1 | – | – |
-| Bonjwa | 352 | 20 | – | – |
-| Elquaria | 162 | 9 | – | – |
-| LesleyBunny | 160 | 3 | – | – |
-| NiklasWilson | 158 | 2 | – | – |
-| Repaz | 133 | 9 | – | – |
-| Exsl95 | 132 | 1 | – | – |
-| Franzi | 120 | 1 | – | – |
-| dieserkingphil | 118 | 8 | – | – |
-| Sebo | 116 | 4 | – | – |
-| zarbex | 109 | 16 | – | – |
-| mertabimula | 106 | 1 | – | – |
-| H0llyLP | 91 | 18 | – | – |
-| TheRealAlehandro | 84 | 81 | 16 | 5,25 |
+| BauPenner | 1.385 | 1 | – | – |
+| Bonjwa | 517 | 20 | – | – |
+| Elquaria | 380 | 9 | – | – |
+| NiklasWilson | 273 | 2 | – | – |
+| MontanaBlack88 | 219 | 23 | – | – |
+| LesleyBunny | 198 | 3 | – | – |
+| H0llyLP | 194 | 30 | 1.227 | 0,16 |
+| mertabimula | 191 | 1 | – | – |
+| Repaz | 183 | 9 | – | – |
+| Franzi | 127 | 1 | – | – |
+| dieserkingphil | 126 | 8 | – | – |
+| zarbex | 103 | 13 | – | – |
+| ProErsiin | 85 | 4 | 420 | 0,2 |
+| TheRealAlehandro | 84 | 81 | – | – |
+| elton_zockt | 81 | 2 | – | – |
 
 Hohe *Views pro Zuschauer* = die Community klippt diesen Streamer gerade überdurchschnittlich viel. Dort clippen.
